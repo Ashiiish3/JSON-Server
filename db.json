@@ -1,751 +1,938 @@
 {
-  "FeaturedCaterories": [
+  "data": [
     {
       "id": "1",
-      "h2": "Audio",
-      "quantity": 1,
-      "img": "https://cdn.shopify.com/s/files/1/0262/2226/4423/files/descarga_3_1600x.webp?v=1652917417"
+      "image": "../Public/images/coffee 1.webp",
+      "title": "Flavor Fiends Soda Can Glass Set",
+      "description": "Quench your thirst in style with our Flavor Fiends Soda Can Glass Set. These unique glasses are perfect for enjoying your favorite beverages with friends and family.",
+      "price": "70.00",
+      "rating": "5",
+      "star": "&#9733; &#9733; &#9733; &#9733; &#9733;"
     },
     {
       "id": "2",
-      "h2": "Massage Chairs",
-      "quantity": 1,
-      "img": "https://cdn.shopify.com/s/files/1/0262/2226/4423/files/descarga_15_1600x.webp?v=1652917776"
+      "image": "../Public/images/coffee 2.webp",
+      "title": "Almond Afterlife Single-Serve Pods",
+      "description": "Indulge in the rich flavor of our Almond Afterlife Single-Serve Pods. Made from premium quality ingredients, these pods deliver a smooth and satisfying coffee experience.",
+      "price": "15.99",
+      "rating": "2",
+      "star": "&#9733; &#9733; &#9734; &#9734; &#9734;"
     },
     {
       "id": "3",
-      "h2": "Foot & Leg Massage",
-      "quantity": 1,
-      "img": "https://cdn.shopify.com/s/files/1/0262/2226/4423/files/descarga_5_1600x.webp?v=1652917431"
+      "image": "../Public/images/coffee 3.webp",
+      "title": "Classic Logo Windbreaker",
+      "description": "Stay cozy and stylish with our Classic Logo Windbreaker. Featuring a timeless design and durable construction, this windbreaker is perfect for everyday wear.",
+      "price": "60.00",
+      "rating": "3",
+      "star": "&#9733; &#9733; &#9733; &#9734; &#9734;"
     },
     {
       "id": "4",
-      "h2": "Neck & Back Massage",
-      "quantity": 1,
-      "img": "https://cdn.shopify.com/s/files/1/0262/2226/4423/files/descarga_6_1600x.webp?v=1652917439"
+      "image": "../Public/images/coffee 4.jpg",
+      "title": "Shadow Windbreaker",
+      "description": "Embrace the elements with our Shadow Windbreaker. Designed for comfort and protection, this windbreaker is a must-have for outdoor enthusiasts.",
+      "price": "60.00",
+      "rating": "1",
+      "star": "&#9733; &#9734; &#9734; &#9734; &#9734;"
     },
     {
       "id": "5",
-      "h2": "Wine & Bar",
-      "quantity": 1,
-      "img": "https://cdn.shopify.com/s/files/1/0262/2226/4423/files/descarga_7_1600x.webp?v=1652917449"
+      "image": "../Public/images/coffee 5.webp",
+      "title": "Society Of Strong Mug",
+      "description": "Start your day off right with our Society Of Strong Mug. Featuring a bold design and sturdy construction, this mug is perfect for enjoying your favorite hot beverages.",
+      "price": "38.00",
+      "rating": "3",
+      "star": "&#9733; &#9733; &#9733; &#9734; &#9734;"
     },
     {
       "id": "6",
-      "h2": "Lighting",
-      "quantity": 1,
-      "img": "https://cdn.shopify.com/s/files/1/0262/2226/4423/files/descarga_8_1600x.webp?v=1652917479"
+      "image": "../Public/images/coffee 6.webp",
+      "title": "Pitch Black Pour Over",
+      "description": "Elevate your coffee game with our Pitch Black Pour Over. Crafted from high-quality materials, this pour over ensures a perfectly brewed cup of coffee every time.",
+      "price": "25.00",
+      "rating": "4",
+      "star": "&#9733; &#9733; &#9733; &#9733; &#9734;"
     },
     {
       "id": "7",
-      "h2": "Pillows",
-      "quantity": 1,
-      "img": "https://cdn.shopify.com/s/files/1/0262/2226/4423/files/descarga_9_1600x.webp?v=1652917507"
+      "image": "../Public/images/coffee 7.webp",
+      "title": "Society Insignia Hat",
+      "description": "Top off your look with our Society Insignia Hat. Featuring our iconic logo and a comfortable fit, this hat is a stylish addition to any outfit.",
+      "price": "25.00",
+      "rating": "5",
+      "star": "&#9733; &#9733; &#9733; &#9733; &#9733;"
     },
     {
       "id": "8",
-      "h2": "Skincare",
-      "quantity": 1,
-      "img": "https://cdn.shopify.com/s/files/1/0262/2226/4423/files/descarga_10_1600x.webp?v=1652917518"
-    },
+      "image": "../Public/images/coffee 8.webp",
+      "title": "Rise & Grinder",
+      "description": "Stay caffeinated and motivated with our Rise & Grinder coffee. Made from the finest beans, this blend delivers a bold and invigorating flavor with every sip.",
+      "price": "28.00",
+      "rating": "2",
+      "star": "&#9733; &#9733; &#9734; &#9734; &#9734;"
+    }
+  ],
+  "seller-Data": [
     {
       "id": "9",
-      "h2": "LED Light Therapy",
-      "quantity": 1,
-      "img": "https://cdn.shopify.com/s/files/1/0262/2226/4423/files/led_1600x.png?v=1661534692"
+      "image": "../Public/images/seller image 1.webp",
+      "title": "Dark Roast Coffee",
+      "description": "Indulge in the rich, bold flavor of our Dark Roast Coffee. Sourced from the finest beans and expertly roasted to perfection, this coffee is sure to delight your taste buds with every sip.",
+      "price": "55.00",
+      "rating": "4",
+      "star": "&#9733; &#9733; &#9733; &#9733; &#9734;"
     },
     {
       "id": "10",
-      "h2": "Technology",
-      "quantity": 1,
-      "img": "https://cdn.shopify.com/s/files/1/0262/2226/4423/files/descarga_12_1600x.webp?v=1652917527"
+      "image": "../Public/images/seller image 2.webp",
+      "title": "Dark Roast Single-Serve Pods",
+      "description": "Experience the convenience and flavor of our Dark Roast Single-Serve Pods. Each pod is filled with rich, aromatic coffee that's perfect for brewing a quick and delicious cup anytime, anywhere.",
+      "price": "75.99",
+      "rating": "2",
+      "star": "&#9733; &#9733; &#9734; &#9734; &#9734;"
     },
     {
       "id": "11",
-      "h2": "Kitchen",
-      "quantity": 1,
-      "img": "https://cdn.shopify.com/s/files/1/0262/2226/4423/files/descarga_13_1600x.webp?v=1652917545"
+      "image": "../Public/images/seller image 3.webp",
+      "title": "Chocolate Hazelnut Coffee",
+      "description": "Treat yourself to a decadent blend of chocolate and hazelnut with our Chocolate Hazelnut Coffee. Made with premium ingredients, this coffee is a delightful indulgence for any time of day.",
+      "price": "49.00",
+      "rating": "3",
+      "star": "&#9733; &#9733; &#9733; &#9734; &#9734;"
     },
     {
       "id": "12",
-      "h2": "Outdoor",
-      "quantity": 1,
-      "img": "https://cdn.shopify.com/s/files/1/0262/2226/4423/files/descarga_14_1600x.webp?v=1652917554"
+      "image": "../Public/images/seller image 4.webp",
+      "title": "Chocolate Hazelnut Single-Serve Pods",
+      "description": "Enjoy the irresistible combination of chocolate and hazelnut in a convenient single-serve pod format. Our Chocolate Hazelnut Single-Serve Pods deliver the perfect balance of sweetness and richness in every cup.",
+      "price": "60.00",
+      "rating": "5",
+      "star": "&#9733; &#9733; &#9733; &#9733; &#9733;"
+    },
+    {
+      "id": "13",
+      "image": "../Public/images/seller image 5.webp",
+      "title": "Society of Strong Mug",
+      "description": "Show your strength with our Society of Strong Mug. Crafted from durable materials and featuring a bold design, this mug is perfect for enjoying your favorite hot beverages while making a statement.",
+      "price": "38.00",
+      "rating": "3",
+      "star": "&#9733; &#9733; &#9733; &#9734; &#9734;"
+    },
+    {
+      "id": "14",
+      "image": "../Public/images/seller image 6.webp",
+      "title": "Sacred Truth Work Jacket",
+      "description": "Stay warm and comfortable on the job with our Sacred Truth Work Jacket. Designed for durability and functionality, this jacket is an essential addition to any workwear wardrobe.",
+      "price": "18.00",
+      "rating": "4",
+      "star": "&#9733; &#9733; &#9733; &#9733; &#9734;"
+    },
+    {
+      "id": "15",
+      "image": "../Public/images/seller image 7.webp",
+      "title": "Medium Roast Coffee",
+      "description": "Discover the perfect balance of flavor and intensity with our Medium Roast Coffee. With its smooth and versatile taste, this coffee is sure to become your new favorite morning brew.",
+      "price": "72.00",
+      "rating": "5",
+      "star": "&#9733; &#9733; &#9733; &#9733; &#9733;"
+    },
+    {
+      "id": "16",
+      "image": "../Public/images/seller image 8.webp",
+      "title": "Medium Roast Single-Serve Pods",
+      "description": "Experience the rich aroma and balanced flavor of our Medium Roast Single-Serve Pods. Perfect for busy mornings or on-the-go moments, these pods deliver a consistently delicious cup of coffee every time.",
+      "price": "68.00",
+      "rating": "2",
+      "star": "&#9733; &#9733; &#9734; &#9734; &#9734;"
+    },
+    {
+      "id": "17",
+      "image": "../Public/images/seller image 9.webp",
+      "title": "Crossbones Klean Kanteen Mug",
+      "description": "Stay hydrated in style with our Crossbones Klean Kanteen Mug. Featuring a sleek design and durable construction, this mug is perfect for enjoying your favorite beverages on the go.",
+      "price": "17.00",
+      "rating": "3",
+      "star": "&#9733; &#9733; &#9733; &#9734; &#9734;"
     }
   ],
-  "new": [
+  "addToCartData": [],
+  "coffee_data": [
     {
-      "id": 1,
-      "quantity": 1,
-      "img": "https://m.media-amazon.com/images/I/41A+iLlIxZL._AC_UL320_.jpg",
-      "title": "Havells Fab Alkaline 7 Litre Absoulety safe, RO + UV Purified Water Purifier with 7 Stages and Alkaline Water Technology (White and Sky Blue)",
-      "price": 21229,
-      "categroy": "electronic"
+      "id": "18",
+      "name": "Almond Afterlife Coffee",
+      "description": "Indulge in the rich flavor of our Almond Afterlife Coffee. Made from the finest beans and infused with the nutty essence of almonds, this coffee is a delightful treat for your taste buds.",
+      "image_url": "https://www.deathwishcoffee.com/cdn/shop/files/Almond_Afterlife_14oz_Ground_Angle_DTC_A1.jpg?v=1711109300&width=533",
+      "regular_price": "19.99",
+      "rating": "3",
+      "star": "&#9733; &#9733; &#9733; &#9734; &#9734;"
     },
     {
-      "id": 2,
-      "quantity": 1,
-      "img": "https://m.media-amazon.com/images/I/812p0M3wOBL._AC_UL320_.jpg",
-      "title": "Usha Immersion Heater (2410) 1000-Watt with Shock Protection (Silver)",
-      "price": 590,
-      "categroy": "electronic"
+      "id": "19",
+      "name": "Almond Afterlife Single-Serve Pods",
+      "description": "Experience the convenience and flavor of our Almond Afterlife Single-Serve Pods. Each pod is filled with the delicious taste of almond-infused coffee, perfect for enjoying on-the-go.",
+      "image_url": "https://www.deathwishcoffee.com/cdn/shop/files/Almond_Afterlife_10ct_Angle_Vertical_Pods_DTC_A1.jpg?v=1711109474&width=533",
+      "regular_price": "15.99",
+      "rating": "2",
+      "star": "&#9733; &#9733; &#9734; &#9734; &#9734;"
     },
     {
-      "id": 3,
-      "quantity": 1,
-      "img": "https://m.media-amazon.com/images/I/51t3VW1hniL._AC_UL320_.jpg",
-      "title": "Usha Aquerra 15 Litre 5 Star Storage Water Heater (White), Wall Mounting",
-      "price": 14990,
-      "categroy": "electronic"
+      "id": "20",
+      "name": "Dark Roast Coffee",
+      "description": "Awaken your senses with our Dark Roast Coffee. Bold and robust, this coffee delivers a powerful flavor and a smooth finish, perfect for starting your day off right.",
+      "image_url": "https://www.deathwishcoffee.com/cdn/shop/files/Dark_Roast_16oz_Ground_Angle_A1-_3.jpg?v=1707501545&width=533",
+      "regular_price": "19.99",
+      "rating": "5",
+      "star": "&#9733; &#9733; &#9733; &#9733; &#9733;"
     },
     {
-      "id": 4,
-      "quantity": 1,
-      "img": "https://m.media-amazon.com/images/I/51OSdOYARKL._AC_UL320_.jpg",
-      "title": "Usha Misty Pro 15 Litre 5 Star Storage Water Heater (Twinkling Grey), Wall Mounting",
-      "price": 11295,
-      "categroy": "electronic"
+      "id": "21",
+      "name": "Dark Roast Single-Serve Pods",
+      "description": "Enjoy the bold flavor of our Dark Roast Single-Serve Pods. Each pod is filled with rich, aromatic coffee, perfect for brewing a quick and satisfying cup anytime, anywhere.",
+      "image_url": "https://www.deathwishcoffee.com/cdn/shop/files/Dark_Roast_10ct_Angle_Vertical_Pods_A1-_2_80a7a931-d037-40d3-a7aa-0a05df7f2e6f.jpg?v=1707502124&width=533",
+      "regular_price": "14.99",
+      "rating": "4",
+      "star": "&#9733; &#9733; &#9733; &#9733; &#9734;"
     },
     {
-      "id": 5,
-      "quantity": 1,
-      "img": "https://m.media-amazon.com/images/I/51laitshu2L._AC_UL320_.jpg",
-      "title": "Butterfly Smart Glass Top 2 Burner Open Gas Stove (Black), Manual Ignition",
-      "price": "₹4,995",
-      "categroy": "electronic"
+      "id": "22",
+      "name": "Chocolate Hazelnut Coffee",
+      "description": "Indulge in the decadent flavor of our Chocolate Hazelnut Coffee. Made with rich cocoa and hazelnut, this coffee is a deliciously satisfying treat for any time of day.",
+      "image_url": "https://www.deathwishcoffee.com/cdn/shop/files/Chocolate_Hazelnut_14oz_Ground_Angle_A1_963d87a8-ec42-42fb-8b8d-8e21d32ff6d2.jpg?v=1707505386&width=533",
+      "regular_price": "19.99",
+      "rating": "3",
+      "star": "&#9733; &#9733; &#9733; &#9734; &#9734;"
     },
     {
-      "id": 6,
-      "quantity": 1,
-      "img": "https://m.media-amazon.com/images/I/51gCF-g7GIL._AC_UL320_.jpg",
-      "title": "Bajaj Splendora 3 Litre 3KW IWH Instant Water Heater (Geyser), White",
-      "price": 5890,
-      "categroy": "electronic"
+      "id": "23",
+      "name": "Chocolate Hazelnut Single-Serve Pods",
+      "description": "Experience the indulgent flavor of our Chocolate Hazelnut Single-Serve Pods. Each pod is filled with the rich taste of chocolate and hazelnut, perfect for a luxurious coffee break.",
+      "image_url": "https://www.deathwishcoffee.com/cdn/shop/files/Chocolate_Hazelnut_10ct_Angle_Vertical_Pods_A1_097b3690-6705-45ca-afa8-1b3ffa652157.jpg?v=1707505489&width=533",
+      "regular_price": "15.99",
+      "rating": "2",
+      "star": "&#9733; &#9733; &#9734; &#9734; &#9734;"
     },
     {
-      "id": 7,
-      "quantity": 1,
-      "img": "https://m.media-amazon.com/images/I/61xlzx7+anL._AC_UL320_.jpg",
-      "title": "Shining Diva Fashion Hot-selling Latest Fashion Jewellery Collection Gold Plated Pendant for Women (Blue)(9278np)",
-      "price": 1999,
-      "categroy": "beauty"
+      "id": "24",
+      "name": "Medium Roast Coffee",
+      "description": "Savor the balanced flavor of our Medium Roast Coffee. With its smooth taste and enticing aroma, this coffee is perfect for any occasion, whether you're starting your day or winding down.",
+      "image_url": "https://www.deathwishcoffee.com/cdn/shop/files/Medium_Roast_16oz_Ground_Angle_A1_8f8a7b97-f418-4bc8-bfcd-bd551950b3b3.jpg?v=1707502500&width=533",
+      "regular_price": "19.99",
+      "rating": "2",
+      "star": "&#9733; &#9733; &#9734; &#9734; &#9734;"
     },
     {
-      "id": 8,
-      "quantity": 1,
-      "img": "https://m.media-amazon.com/images/I/51TYBmz4JXL._AC_UL320_.jpg",
-      "title": "Butterfly Smart Glass 3 Burner Gas Stove, Black, Manual Ignition",
-      "price": 6495,
-      "categroy": "electronic"
+      "id": "25",
+      "name": "Medium Roast Single-Serve Pods",
+      "description": "Experience the rich flavor of our Medium Roast Single-Serve Pods. Each pod is filled with delicious, aromatic coffee, perfect for a quick and convenient cup anytime, anywhere.",
+      "image_url": "https://www.deathwishcoffee.com/cdn/shop/files/Medium_Roast_10ct_Angle_Vertical_Pods_A1_97237db9-e69a-418f-b5da-ac7e01acb8ec.jpg?v=1707502646&width=533",
+      "regular_price": "14.99",
+      "rating": "4",
+      "star": "&#9733; &#9733; &#9733; &#9733; &#9734;"
     },
     {
-      "id": 9,
-      "quantity": 1,
-      "img": "https://m.media-amazon.com/images/I/710+M61cX4L._AC_UL320_.jpg",
-      "title": "Diverse Men's Regular Fit Formal Shirt",
-      "price": 1199,
-      "categroy": "cloth"
+      "id": "26",
+      "name": "Blue and Buried Coffee",
+      "description": "Embark on a flavor adventure with our Blue and Buried Coffee. Made with premium beans and a hint of mystery, this coffee is sure to intrigue and delight your taste buds.",
+      "image_url": "https://www.deathwishcoffee.com/cdn/shop/files/Blue_and_Buried_Ground_Angle_A1_5be9cffc-ed75-46b2-af52-4e0b08dd92f2.jpg?v=1707504782&width=533",
+      "regular_price": "19.99",
+      "rating": "3",
+      "star": "&#9733; &#9733; &#9733; &#9734; &#9734;"
     },
     {
-      "id": 10,
-      "quantity": 1,
-      "img": "https://m.media-amazon.com/images/I/71JnC0xndnL._AC_UL320_.jpg",
-      "title": "Maggi 2-Minute Masala Instant Noodles, 280 grams Pouch",
-      "price": 55,
-      "categroy": "food"
+      "id": "27",
+      "name": "Blue and Buried Single-Serve Pods",
+      "description": "Experience the mystery and excitement of our Blue and Buried Single-Serve Pods. Each pod is filled with bold, flavorful coffee, perfect for satisfying your curiosity and your caffeine craving.",
+      "image_url": "https://www.deathwishcoffee.com/cdn/shop/files/Blue_and_Buried_10ct_Angle_Vertical_Pods_A1_8fa5232a-e828-4884-af5c-2f9e1a28da10.jpg?v=1707504864&width=533",
+      "regular_price": "15.99",
+      "rating": "5",
+      "star": "&#9733; &#9733; &#9733; &#9733; &#9733;"
     },
     {
-      "id": 11,
-      "quantity": 1,
-      "img": "https://m.media-amazon.com/images/I/51aqiqoKB+L._AC_UL320_.jpg",
-      "title": "LAKMÉ Eyeconic Kajal Twin Pack, Black, 0.35g with 0.35g Matte Finish",
-      "price": 380,
-      "categroy": "beauty"
+      "id": "28",
+      "name": "Espresso Roast Coffee",
+      "description": "Enjoy the bold and intense flavor of our Espresso Roast Coffee. Made with premium beans and expertly roasted, this coffee is perfect for espresso lovers who crave a rich, satisfying cup.",
+      "image_url": "https://www.deathwishcoffee.com/cdn/shop/files/Espresso_Roast_14oz_Ground_Angle_A1_b1e21a42-82de-4fc0-8f67-c3a3644622b6.jpg?v=1707502254&width=533",
+      "regular_price": "19.99",
+      "rating": "2",
+      "star": "&#9733; &#9733; &#9734; &#9734; &#9734;"
     },
     {
-      "id": 12,
-      "quantity": 1,
-      "img": "https://m.media-amazon.com/images/I/71IubON1wRS._AC_UL320_.jpg",
-      "title": "Pratiharye Women's Solid Above knee Baby Doll(Pack of 2)",
-      "price": 999,
-      "categroy": "cloth"
+      "id": "29",
+      "name": "Espresso Roast Single-Serve Pods",
+      "description": "Experience the bold flavor of our Espresso Roast Single-Serve Pods. Each pod is filled with rich, aromatic coffee, perfect for brewing a quick and satisfying espresso shot anytime, anywhere.",
+      "image_url": "https://www.deathwishcoffee.com/cdn/shop/files/Espresso_10ct_Angle_Vertical_A1_4c1255f8-be18-4c92-9970-4bf4cfaefc28.jpg?v=1707502393&width=533",
+      "regular_price": "14.99",
+      "rating": "4",
+      "star": "&#9733; &#9733; &#9733; &#9733; &#9734;"
     },
     {
-      "id": 13,
-      "quantity": 1,
-      "img": "https://m.media-amazon.com/images/I/511mC+B3wOL._AC_UL320_.jpg",
-      "title": "Aquasure From Aquaguard Delight RO+UV+MTDS ,7L storage water purifier,suitable for borewell,tanker,municipal water (White) from Eureka Forbes",
-      "price": 16000,
-      "categroy": "electronic"
+      "id": "30",
+      "name": "Dark Spirits Chocolate Rum Ball",
+      "description": "Indulge in the decadent flavor of our Dark Spirits Chocolate Rum Ball. Made with rich chocolate and infused with a hint of rum, these chocolate treats are perfect for satisfying your sweet tooth.",
+      "image_url": "https://www.deathwishcoffee.com/cdn/shop/files/Dark_Spirits_Chocolate_Rum_Ball_A1-_1.jpg?v=1707505768&width=533",
+      "regular_price": "14.99",
+      "rating": "5",
+      "star": "&#9733; &#9733; &#9733; &#9733; &#9733;"
     },
     {
-      "id": 14,
-      "quantity": 1,
-      "img": "https://m.media-amazon.com/images/I/71hiYw-SQNL._AC_UL320_.jpg",
-      "title": "Amazon Brand - Inkast Denim Co. Men Casual Shirt",
-      "price": 2199,
-      "categroy": "cloth"
+      "id": "31",
+      "name": "Dark Roast Espresso Capsules",
+      "description": "Experience the bold flavor of our Dark Roast Espresso Capsules. Each capsule is filled with rich, intense espresso, perfect for brewing a satisfying shot at home or on the go.",
+      "image_url": "https://www.deathwishcoffee.com/cdn/shop/files/Dark-Roast-Espresso-Capsule_b771ec96-b91b-4945-9189-7c707e43a1bc.jpg?v=1707501877&width=533",
+      "regular_price": "12.99",
+      "rating": "4",
+      "star": "&#9733; &#9733; &#9733; &#9733; &#9734;"
     },
     {
-      "id": 15,
-      "quantity": 1,
-      "img": "https://m.media-amazon.com/images/I/71gVtJPjZZL._AC_UL320_.jpg",
-      "title": "Sparx Mens Sm-439 Sneaker",
-      "price": 699,
-      "categroy": "shoes"
+      "id": "32",
+      "name": "Dark Roast Instant Coffee",
+      "description": "Enjoy the rich flavor of our Dark Roast Instant Coffee. Made from premium beans and expertly blended, this instant coffee delivers a bold and satisfying cup every time.",
+      "image_url": "https://www.deathwishcoffee.com/cdn/shop/files/Dark_Roast_Instant_8ct_Stick_Angle_A2-_1.jpg?v=1707501896&width=533",
+      "regular_price": "11.99",
+      "rating": "2",
+      "star": "&#9733; &#9733; &#9734; &#9734; &#9734;"
     },
     {
-      "id": 16,
-      "quantity": 1,
-      "img": "https://m.media-amazon.com/images/I/61J1KM52YoL._AC_UL320_.jpg",
-      "title": "Kwality Wall's Fruit & Nut, 700 ml",
-      "price": 239,
-      "categroy": "food"
+      "id": "33",
+      "name": "Vanilla Coffee",
+      "description": "Indulge in the smooth and creamy flavor of our Vanilla Coffee. Made with premium beans and a hint of vanilla, this coffee is a delightful treat for any time of day.",
+      "image_url": "https://www.deathwishcoffee.com/cdn/shop/files/Vanilla_14oz_Ground_Angle_A1_40a88ad7-b803-4ab4-a753-ce4d2b56f764.jpg?v=1707504956&width=533",
+      "regular_price": "19.99",
+      "rating": "5",
+      "star": "&#9733; &#9733; &#9733; &#9733; &#9733;"
     },
     {
-      "id": 17,
-      "quantity": 1,
-      "img": "https://m.media-amazon.com/images/I/612E8Vgbd9L._AC_UL320_.jpg",
-      "title": "Shining Diva Fashion Long Chain Black Crystal Rose Flower Pendant Necklace for Women and Girls",
-      "price": 2499,
-      "categroy": "beauty"
+      "id": "34",
+      "image_url": "../Public/images/coffee 1.webp",
+      "name": "Flavor Fiends Soda Can Glass Set",
+      "description": "Add a touch of retro style to your drinkware collection with our Flavor Fiends Soda Can Glass Set. Featuring vibrant colors and a fun soda can design, these glasses are perfect for enjoying your favorite beverages in style.",
+      "regular_price": "70.00",
+      "rating": "1",
+      "star": "&#9733; &#9734; &#9734; &#9734; &#9734;"
     },
     {
-      "id": 18,
-      "quantity": 1,
-      "img": "https://m.media-amazon.com/images/I/81u7HdBakuL._AC_UL320_.jpg",
-      "title": "SOFTSPUN Microfiber Cleaning Cloths, 4pcs 40x40cms 340GSM Multi-Colour! Highly Absorbent, Lint and Streak Free, Multi -Purpose Wash Cloth for Kitchen, Car, Window, Stainless Steel, silverware.",
-      "price": 604,
-      "categroy": "beauty"
+      "id": "35",
+      "image_url": "../Public/images/coffee 2.webp",
+      "name": "Almond Afterlife Single-Serve Pods",
+      "description": "Experience the convenience and flavor of our Almond Afterlife Single-Serve Pods. Each pod is filled with the delicious taste of almond-infused coffee, perfect for enjoying on-the-go.",
+      "regular_price": "15.99",
+      "rating": "2",
+      "star": "&#9733; &#9733; &#9734; &#9734; &#9734;"
     },
     {
-      "id": 19,
-      "quantity": 1,
-      "img": "https://m.media-amazon.com/images/I/81uCyOtE-wL._AC_UL320_.jpg",
-      "title": "GoSriKi Women's Crepe Kurta",
-      "price": 3999,
-      "categroy": "cloth"
+      "id": "36",
+      "image_url": "../Public/images/coffee 3.webp",
+      "name": "Classic Logo Windbreaker",
+      "description": "Stay stylish and comfortable in any weather with our Classic Logo Windbreaker. Featuring our iconic logo and made from durable materials, this windbreaker is perfect for outdoor adventures or casual wear.",
+      "regular_price": "60.00",
+      "rating": "3",
+      "star": "&#9733; &#9733; &#9733; &#9734; &#9734;"
     },
     {
-      "id": 20,
-      "quantity": 1,
-      "img": "https://m.media-amazon.com/images/I/71Z8wOB-WTL._AC_UL320_.jpg",
-      "title": "AGARO Ace 1600 Watts, 21.5 kPa Suction Power, 21 litres Wet & Dry Stainless Steel Vacuum Cleaner with Blower Function and Washable Dust Bag",
-      "price": 999,
-      "categroy": "electronic"
-    },
-    {
-      "id": 21,
-      "quantity": 1,
-      "img": "https://m.media-amazon.com/images/I/61J2gr1xbLL._AC_UL320_.jpg",
-      "title": "Dettol Liquid Handwash Refill – Skincare Hand Wash- 1500ml | pH Balanced | 10x Better Germ Protection",
-      "price": 209
-    },
-    {
-      "id": 22,
-      "quantity": 1,
-      "img": "https://m.media-amazon.com/images/I/61NP4TCnLKL._AC_UL320_.jpg",
-      "title": "Elica 60 cm 1200 m3/hr Filterless Chimney with 15 Years Warranty (EFL-S607 LTW VMS, Motion Sensor Control, Black)",
-      "price": 28990
-    },
-    {
-      "id": 23,
-      "quantity": 1,
-      "img": "https://m.media-amazon.com/images/I/51kB-cw-j8L._AC_UL320_.jpg",
-      "title": "Elica 60 cm 880 m3/hr Chimney (Strip CF 60 NERO, 2 Cassette Filters, Black)",
-      "price": 11990
-    },
-    {
-      "id": 24,
-      "quantity": 1,
-      "img": "https://m.media-amazon.com/images/I/61MGacLjRWL._AC_UL320_.jpg",
-      "title": "Dettol Liquid Handwash Refill – Skincare Hand Wash- 675ml (Buy 1 Get 1 Free) | pH Balanced | 10x Better Germ Protection",
-      "price": 218
-    },
-    {
-      "id": 25,
-      "quantity": 1,
-      "img": "https://m.media-amazon.com/images/I/51PwsOOMErL._AC_UL320_.jpg",
-      "title": "PHILIPS Digital Air Fryer HD9252/90 with Touch Panel, uses up to 90% less fat, 7 Pre-set Menu, 1400W, 4.1 Liter, with Rapid Air Technology (Black), Large",
-      "price": 12595,
-      "categroy": "electronic"
-    },
-    {
-      "id": 26,
-      "quantity": 1,
-      "img": "https://m.media-amazon.com/images/I/81RmyL+TpdL._AC_UL320_.jpg",
-      "title": "RIVERSOFT SF-15 PRO abs shower and tap filter for hard water with 15 stage (Chrome, Pack of 1)",
-      "price": 4999
-    },
-    {
-      "id": 27,
-      "quantity": 1,
-      "img": "https://m.media-amazon.com/images/I/61fB2NdHMyL._AC_UL320_.jpg",
-      "title": "WILD MODA Women's Shoulder Bag, Set of 1",
-      "price": 1999
-    },
-    {
-      "id": 28,
-      "quantity": 1,
-      "img": "https://m.media-amazon.com/images/I/71v41Am4GxL._AC_UL320_.jpg",
-      "title": "Shining Diva Fashion Jewellery Stylish Black Lace 7 Pc Combo Choker Necklace Set For Women And Girls(Cmb227)",
-      "price": 2499,
-      "categroy": "beauty"
-    },
-    {
-      "id": 29,
-      "quantity": 1,
-      "img": "https://m.media-amazon.com/images/I/41YvL1oOZ5S._AC_UL320_.jpg",
-      "title": "INALSA Hand Blender Robot 1000 Pro S-1000 Watts| Super Silent DC Motor| Variable Speed Control| Detachable Stem for Cleaning & Storage|(Black/Silver)",
-      "price": 3365
-    },
-    {
-      "id": 30,
-      "quantity": 1,
-      "img": "https://m.media-amazon.com/images/I/611tYIVZADL._AC_UL320_.jpg",
-      "title": "Maurvi 20W 20 WATT 7MM HOT MELT Glue Gun with ON Off Switch and LED Indicator (NEON Color & Free 10 Transparent Glue Sticks)",
-      "price": 1099
-    },
-    {
-      "id": 31,
-      "quantity": 1,
-      "img": "https://m.media-amazon.com/images/I/71G6UQ0ZUeL._AC_UL320_.jpg",
-      "title": "minicult Cotton Pajama Pants with All Over Print for Boys and Girls (Multicolor Designs)(Regular Fit)(Pack of 5)",
-      "price": 1099,
-      "categroy": "cloth"
-    },
-    {
-      "id": 32,
-      "quantity": 1,
-      "img": "https://m.media-amazon.com/images/I/915DPNw7xML._AC_UL320_.jpg",
-      "title": "Havells Ventil Air DSP 230mm Exhaust Fan (Pista Green)",
-      "price": 1985,
-      "categroy": "electronic"
-    },
-    {
-      "id": 33,
-      "quantity": 1,
-      "img": "https://m.media-amazon.com/images/I/61HeD8a-M2L._AC_UL320_.jpg",
-      "title": "recron Joy Fibre Cushion - 41 Cm X 41 Cm, White(Cotton)",
-      "price": 905
-    },
-    {
-      "id": 34,
-      "quantity": 1,
-      "img": "https://m.media-amazon.com/images/I/71yt7wUHVPL._AC_UL320_.jpg",
-      "title": "ea ekam art Sun Protection Rajasthani Umbrella Handicraft Walking Stick - 5 Pieces",
-      "price": 1750
-    },
-    {
-      "id": 35,
-      "quantity": 1,
-      "img": "https://m.media-amazon.com/images/I/51obvF1uWqL._AC_UL320_.jpg",
-      "title": "Havells Ventil Air DX 250mm Exhaust Fan",
-      "price": 2090
-    },
-    {
-      "id": 36,
-      "quantity": 1,
-      "img": "https://m.media-amazon.com/images/I/71Fn+A6IekS._AC_UL320_.jpg",
-      "title": "Lavie Women's Nova Tote Bag | Ladies Purse Handbag",
-      "price": "₹2,499"
-    },
-    {
-      "id": 37,
-      "quantity": 1,
-      "img": "https://m.media-amazon.com/images/I/616wKg82wWL._AC_UL320_.jpg",
-      "title": "Yellow Chimes Rings for Women Multicolor Floral Adjustable Ring Sparkling Love Swiss Zircon Rose Gold Plated Rings for Women and Girls.",
-      "price": 1388,
-      "categroy": "beauty"
-    },
-    {
-      "id": 38,
-      "quantity": 1,
-      "img": "https://m.media-amazon.com/images/I/91+L4otNgzS._AC_UL320_.jpg",
-      "title": "BINORI FASHIONS Rajasthani Style Royal Clutch Silk Batwa Bag Wristlets Ethnic Potli For Women's Zari Work Potli Bridal Potli",
-      "price": 499
-    },
-    {
-      "id": 39,
-      "quantity": 1,
-      "img": "https://m.media-amazon.com/images/I/61d6CsjA8lL._AC_UL320_.jpg",
-      "title": "Zollyss Portable Digital 50 Kg Weighing Scale with Metal Hook (Black)",
-      "price": 799
-    },
-    {
-      "id": 40,
-      "quantity": 1,
-      "img": "https://m.media-amazon.com/images/I/41flQn4KspL._AC_UL320_.jpg",
-      "title": "NEVI Blue and Silver Crystal Stainless Steel Couple Rings for Men and Women",
-      "price": 799,
-      "categroy": "beauty"
-    },
-    {
-      "id": 41,
-      "quantity": 1,
-      "img": "https://m.media-amazon.com/images/I/51fsCV7fq7L._AC_UL320_.jpg",
-      "title": "Kama Ayurveda Jwalini Retexturising Skin Treatment Oil, 100ml",
-      "price": 995
-    },
-    {
-      "id": 42,
-      "quantity": 1,
-      "img": "https://m.media-amazon.com/images/I/61VvRWpzwsL._AC_UL320_.jpg",
-      "title": "Hotmelt Stainless Steel Water Bottle Pump Automatic Drinking Portable Electric Universal Dispenser (5 Gallon, Color-Black)",
-      "price": 699,
-      "categroy": "electronic"
-    },
-    {
-      "id": 43,
-      "quantity": 1,
-      "img": "https://m.media-amazon.com/images/I/61MMo3L63rL._AC_UL320_.jpg",
-      "title": "Elica 60 cm 1200 m3/hr Filterless Auto Clean Chimney with 15 Years Warranty (WDFL 606 HAC LTW MS NERO, Touch + Motion Sensor Control, Black)",
-      "price": 23990,
-      "categroy": "electronic"
-    },
-    {
-      "id": 44,
-      "quantity": 1,
-      "img": "https://m.media-amazon.com/images/I/61QLaVlETHL._AC_UL320_.jpg",
-      "title": "ADISA Women's & Girls' Sling Bag",
-      "price": 1499
-    },
-    {
-      "id": 45,
-      "quantity": 1,
-      "img": "https://m.media-amazon.com/images/I/717caP+QkqL._AC_UL320_.jpg",
-      "title": "Yellow Chimes Valentine Gift for Girls Bracelet for Women and Girls | Fashion Rose Gold Crystal Studded Bracelets for Women and Girls | Rose Gold Plated Coin Shaped Bracelet | Accessories Jewellery for Women | Birthday Gift for Girls and Women Anniversary Gift for Wife",
-      "price": 999
-    },
-    {
-      "id": 46,
-      "quantity": 1,
-      "img": "https://m.media-amazon.com/images/I/513vJoy-EfL._AC_UL320_.jpg",
-      "title": "SeCro Plastic Film Universal Travel Adapter with Built in Dual USB Charger Ports with 125V 6A, 250V Surge/Spike Protected Electrical Plug (White) (Style A)",
-      "price": 727
-    },
-    {
-      "id": 47,
-      "quantity": 1,
-      "img": "https://m.media-amazon.com/images/I/61BN65p+qbS._AC_UL320_.jpg",
-      "title": "Preethi MGA-515 1 Litre Taper Jar (White), Stainless Steel",
-      "price": 605
-    },
-    {
-      "id": 48,
-      "quantity": 1,
-      "img": "https://m.media-amazon.com/images/I/61vN4ZtIwWL._AC_UL320_.jpg",
-      "title": "KOFY Jet Flame Lighter With Gas Can 500 Ml(Multicolour)",
-      "price": 599
-    },
-    {
-      "id": 49,
-      "quantity": 1,
-      "img": "https://m.media-amazon.com/images/I/51GKuL90nlL._AC_UL320_.jpg",
-      "title": "D'Cal - Hard Water Softener | For Complete House | Protects Taps, Pipes & Bathrooms | Reduces Dry Skin & Hair Loss | Easy to Use | 1 year Life | No Maintenance | Food Grade",
-      "price": 800
-    },
-    {
-      "id": 50,
-      "quantity": 1,
-      "img": "https://m.media-amazon.com/images/I/715xl1ueLvL._AC_UL320_.jpg",
-      "title": "Shell Advance Ultra 4T 10W-40 API SN Fully Synthetic Motorbike Engine Oil (1 L)",
-      "price": 805
-    },
-    {
-      "id": 51,
-      "quantity": 1,
-      "img": "https://m.media-amazon.com/images/I/71-RiHxbMjL._AC_UL320_.jpg",
-      "title": "Fulminare Self-Adhesive Aluminium Bathroom Corner Shelf Rack Bathroom Corner Organizer Stand Bathroom Organisers Storage Racks Bathroom Shelf/Shelves Corner - Polished Round Corner (Pack of 1)",
-      "price": 1999
-    },
-    {
-      "id": 52,
-      "quantity": 1,
-      "img": "https://m.media-amazon.com/images/I/51TM1MJKycL._AC_UL320_.jpg",
-      "title": "Zollyss 3 In 1 Kitchen Sink Organizer For Dishwasher Liquid, Brush, Cloth, Soap, Sponge, Etc. - (Pack Of 1,Plastic)",
-      "price": 899
-    },
-    {
-      "id": 53,
-      "quantity": 1,
-      "img": "https://m.media-amazon.com/images/I/41IvL+w8h-L._AC_UL320_.jpg",
-      "title": "Creative Textiles Portable Double Bad Round Ceiling Hung Mosquito Net Pest Control Comfortable for Family 100% AIR Flow Mosquito Net (White)",
-      "price": 1200
-    },
-    {
-      "id": 54,
-      "quantity": 1,
-      "img": "https://m.media-amazon.com/images/I/41LekhwwQ3L._AC_UL320_.jpg",
-      "title": "The Better Home Copper Water Bottle with Sipper 700ml | Leakproof | BPA Free Water Bottle with Anti Oxidant Properties of Copper | Sipper Bottle For Adults and Kids (Pack Of 1)",
-      "price": 3499
-    },
-    {
-      "id": 55,
-      "quantity": 1,
-      "img": "https://m.media-amazon.com/images/I/91AUcF7C+VL._AC_UL320_.jpg",
-      "title": "Storite Stylish Padded Small Nylon Sling Cross Body Travel Office Business Messenger Bag for Men Women",
-      "price": 3499
-    },
-    {
-      "id": 56,
-      "quantity": 1,
-      "img": "https://m.media-amazon.com/images/I/41mZ7nVyYBL._AC_UL320_.jpg",
-      "title": "ZOSHOMI Auto Cut Off Portable Instant Water Heater/Geyser for Kitchen, Bathroom, Office, Restaurant, Labs, Clinics, Saloon & Beauty Parlor (Multicolour)",
-      "price": 4999
-    },
-    {
-      "id": 57,
-      "quantity": 1,
-      "img": "https://m.media-amazon.com/images/I/715l1odFnbL._AC_UL320_.jpg",
-      "title": "AGARO 33398 Rapid 1000-Watt, 10-Litre Wet & Dry Vacuum Cleaner, with Blower Function (Red & Black)",
-      "price": 5999
-    },
-    {
-      "id": 58,
-      "quantity": 1,
-      "img": "https://m.media-amazon.com/images/I/51kruAiguwL._AC_UL320_.jpg",
-      "title": "Usha Aquerra Dg 15 Litre 5 Star Digital Storage Water Heater With Remote (White), Wall Mounting",
-      "price": 14295
-    },
-    {
-      "id": 59,
-      "quantity": 1,
-      "img": "https://m.media-amazon.com/images/I/71i+AAp+MoL._AC_UL320_.jpg",
-      "title": "IBELL Heat Gun HG20-82, 2000W, Dual Air Flow 250 | 550 L/min, Dual Temp 350 °C | 550 °C (Red)",
-      "price": 1900
+      "id": "37",
+      "image_url": "../Public/images/coffee 4.jpg",
+      "name": "Shadow Windbreaker",
+      "description": "Embrace the darkness with our Shadow Windbreaker. Sleek and stylish, this windbreaker features a subtle design and lightweight construction, making it perfect for everyday wear or outdoor activities.",
+      "regular_price": "60.00",
+      "rating": "1",
+      "star": "&#9733; &#9734; &#9734; &#9734; &#9734;"
     }
   ],
-  "massage": [
+  "merch_Data": [
     {
-      "id": 1,
-      "image": "https://m.media-amazon.com/images/I/61BzwtmQptL._AC_UL320_.jpg",
-      "title": "beatXP Bolt Deep Tissue Massage Gun | Percussion Muscle Massager for Full Body Pain Relief of Neck, Shoulder, Back, Foot for Men & Women Up to 1 Year Warranty (Black)",
-      "price": 4999
+      "id": "38",
+      "name": "Sacred Bloom Towel and Oven Mitt",
+      "image": "https://www.deathwishcoffee.com/cdn/shop/files/DWC_April_OvenMitt_Towel_OvenMitt_TowelWide_Web.jpg?v=1713445547&width=533",
+      "price": "28.00",
+      "description": "Perfect for your kitchen needs, this Sacred Bloom Towel and Oven Mitt set adds a touch of style while keeping your hands safe from hot surfaces.",
+      "rating": "3",
+      "star": "&#9733; &#9733; &#9733; &#9734; &#9734;"
     },
     {
-      "id": 2,
-      "image": "https://m.media-amazon.com/images/I/61aPcaxfz2L._AC_UL320_.jpg",
-      "title": "Flexnest Premium German-Designed Vibration Gun Massager with 4 Silicone Coated Heads and Long Battery Life for Physio Pain Relief, Deep Tissue Percussion for Full Body, Battery Powered, Black",
-      "price": 6999
+      "id": "39",
+      "name": "Sacred Bloom Swedish Rag Set",
+      "image": "https://www.deathwishcoffee.com/cdn/shop/files/DWC_April_SwedishRags_Front_Web.jpg?v=1713210321&width=533",
+      "price": "12.00",
+      "description": "Add some flair to your cleaning routine with this Swedish Rag Set, featuring the Sacred Bloom design.",
+      "rating": "5",
+      "star": "&#9733; &#9733; &#9733; &#9733; &#9733;"
     },
     {
-      "id": 3,
-      "image": "https://m.media-amazon.com/images/I/61RjbZ68WrL._AC_UL320_.jpg",
-      "title": "beatXP Blaze Electric Body Massager with 3 Massage Heads - Shiatsu Full Body Relaxation for Pain and Stress Relief - Infra Red Heat Therapy - Back, Leg, Foot & Body Slimming Massager, 1 Year Warranty",
-      "price": 2999
+      "id": "40",
+      "name": "Daily Grind Long Sleeve",
+      "image": "https://www.deathwishcoffee.com/cdn/shop/files/DWC_April_ArtistSeries_LongSleeve_Front_Web.jpg?v=1712685087&width=533",
+      "price": "45.00",
+      "description": "Stay cozy and stylish in this Daily Grind Long Sleeve shirt, featuring artwork from our Artist Series.",
+      "rating": "2",
+      "star": "&#9733; &#9733; &#9734; &#9734; &#9734;"
     },
     {
-      "id": 4,
-      "image": "https://m.media-amazon.com/images/I/61BzwtmQptL._AC_UL320_.jpg",
-      "title": "beatXP Bolt Deep Tissue Massage Gun | Percussion Muscle Massager for Full Body Pain Relief of Neck, Shoulder, Back, Foot for Men & Women Up to 1 Year Warranty (Black)",
-      "price": 4999
+      "id": "41",
+      "name": "Daily Grind Black Skateboard Deck",
+      "image": "https://www.deathwishcoffee.com/cdn/shop/files/DWC_April_Skateboard_black_Bottom_Web.jpg?v=1712685501&width=533",
+      "price": "70.00",
+      "description": "Take your skateboarding to the next level with this sleek black Daily Grind Skateboard Deck.",
+      "rating": "1",
+      "star": "&#9733; &#9734; &#9734; &#9734; &#9734;"
     },
     {
-      "id": 5,
-      "image": "https://m.media-amazon.com/images/I/71OMkkfrJfL._AC_UL320_.jpg",
-      "title": "AGARO Atom Electric Handheld Full Body Massager with 3 Massage Heads & Variable Speed Settings for Pain Relief and Relaxation, Back, Leg & Foot, Black",
-      "price": 1495
+      "id": "42",
+      "name": "Daily Grind Pink Skateboard Deck",
+      "image": "https://www.deathwishcoffee.com/cdn/shop/files/DWC_April_Skateboard_Pink_Bottom_Web_12b02d3b-a455-479f-8c90-3065725558cc.jpg?v=1713289700&width=533",
+      "price": "70.00",
+      "description": "Show off your style at the skate park with this vibrant pink Daily Grind Skateboard Deck.",
+      "rating": "4",
+      "star": "&#9733; &#9733; &#9733; &#9733; &#9734;"
     },
     {
-      "id": 6,
-      "image": "https://m.media-amazon.com/images/I/41OKxXLfQeL._AC_UL320_.jpg",
-      "title": "KPD 1Pc- 24K Gold Massager Electric Vibration Energy Beauty Bar Facial Massage for Roller Waterproof Face Skin Care T-Shaped Anti Wrinkle Massager for Forehead, Cheek,Neck ,Clavicle Arm Leg (Gold-color)",
-      "price": 999
+      "id": "43",
+      "name": "Flavor Fiends Soda Can Glass Set",
+      "image": "https://www.deathwishcoffee.com/cdn/shop/files/DWC_April_SodaGlasses_107_Web.jpg?v=1712843654&width=533",
+      "price": "44.00",
+      "description": "Enjoy your favorite beverages in style with this Flavor Fiends Soda Can Glass Set, perfect for any occasion.",
+      "rating": "5",
+      "star": "&#9733; &#9733; &#9733; &#9733; &#9733;"
     },
     {
-      "id": 7,
-      "image": "https://m.media-amazon.com/images/I/61oXrd-Ac8L._AC_UL320_.jpg",
-      "title": "AGARO MARVEL Electric Handheld Full Body Hammer Massager with 5 Massage Heads, 5 Mode & 6 Speed Settings for Pain Relief & Relaxation, Back, Leg & Foot, Black and Silver",
-      "price": "₹3,495"
+      "id": "44",
+      "name": "Klean Kanteen Straw 2-Pack",
+      "image": "https://www.deathwishcoffee.com/cdn/shop/files/DWC_April_Straws_Package_Front_Web.jpg?v=1712599722&width=533",
+      "price": "8.00",
+      "description": "Reduce waste and sip sustainably with this Klean Kanteen Straw 2-Pack, perfect for on-the-go hydration.",
+      "rating": "4",
+      "star": "&#9733; &#9733; &#9733; &#9733; &#9734;"
     },
     {
-      "id": 8,
-      "image": "https://m.media-amazon.com/images/I/51WzBbuGOaL._AC_UL320_.jpg",
-      "title": "AMSO Products Massage Pillow With 4 Kneading Massage Modes For Back, Neck, Lower Back and Shoulder (Pack of 1)",
-      "price": "₹3,000"
+      "id": "45",
+      "name": "Creamators Raglan",
+      "image": "https://www.deathwishcoffee.com/cdn/shop/files/DWC_April_RaglanCreamators_Front_Web.jpg?v=1712240420&width=533",
+      "price": "35.00",
+      "description": "Stay comfortable and stylish with this Creamators Raglan, featuring a unique design for coffee lovers.",
+      "rating": "3",
+      "star": "&#9733; &#9733; &#9733; &#9734; &#9734;"
     },
     {
-      "id": 9,
-      "image": "https://m.media-amazon.com/images/I/51RX47KjKuL._AC_UL320_.jpg",
-      "title": "Azah Personal Body Massager with 20+ Vibration Modes | Rechargeable, Handheld, Cordless  | Waterproof & Easy to Clean | For Women and Men | Flexible Head for Targeted Compression",
-      "price": "₹1,099"
+      "id": "46",
+      "name": "Pitch Black Raglan",
+      "image": "https://www.deathwishcoffee.com/cdn/shop/files/DWC_April_RaglanPB_Front_Web.jpg?v=1712240718&width=533",
+      "price": "35.00",
+      "description": "Embrace the dark side with this Pitch Black Raglan, perfect for those who appreciate bold style.",
+      "rating": "1",
+      "star": "&#9733; &#9734; &#9734; &#9734; &#9734;"
     },
     {
-      "id": 10,
-      "image": "https://m.media-amazon.com/images/I/41MwT95fZcS._AC_UL320_.jpg",
-      "title": "R A Products Mini 3D Manual Roller Massager 360 Rotate Face-lift Wrinkle Remover Facial Massage For Relaxation and Slimming Skin Tighten Wrinkle Remover",
-      "price": "₹485"
+      "id": "47",
+      "name": "Cold Hearted Cooler & Koozie Bundle",
+      "image": "https://www.deathwishcoffee.com/cdn/shop/files/DWC_April_CoolerandKoozie_Front_Web.jpg?v=1712250430&width=533",
+      "price": "30.00",
+      "description": "Keep your drinks cold and your hands warm with this Cold Hearted Cooler & Koozie Bundle, perfect for outdoor adventures.",
+      "rating": "4",
+      "star": "&#9733; &#9733; &#9733; &#9733; &#9734;"
     },
     {
-      "id": 11,
-      "image": "https://m.media-amazon.com/images/I/61zpdN07ntL._AC_UL320_.jpg",
-      "title": "Lifelong LLM180 Electric Handheld Full Body Massager with 8 Massage Heads | Free Hot + Cold Gel Pack and Variable Speed Settings For Pain Relief & Relaxation|Handheld Full Body Massager Machine (1 Year Warranty, Brown)",
-      "price": "₹4,200"
+      "id": "48",
+      "name": "Benchwarmer Slim Can Koozie",
+      "image": "https://www.deathwishcoffee.com/cdn/shop/files/DWC_April_Koozie_Front_Web_2.jpg?v=1712249688&width=533",
+      "price": "7.00",
+      "description": "Stay cool and stylish with this Benchwarmer Slim Can Koozie, designed to keep your beverage cold and your hands dry.",
+      "rating": "3",
+      "star": "&#9733; &#9733; &#9733; &#9734; &#9734;"
     },
     {
-      "id": 12,
-      "image": "https://m.media-amazon.com/images/I/415dF6X0-UL._AC_UL320_.jpg",
-      "title": "Lifelong LLM270 Powerful Handheld Electric Manipol Massager| Massager for pain relief | Massage at home (Brown, 1 Year Warranty)",
-      "price": "₹2,300"
+      "id": "49",
+      "name": "Eagle Crest Bandana",
+      "image": "https://www.deathwishcoffee.com/cdn/shop/files/Rebellious-156_1.jpg?v=1711647870&width=533",
+      "price": "15.00",
+      "description": "Add a touch of rebellion to your style with this Eagle Crest Bandana, perfect for any outdoor adventure.",
+      "rating": "5",
+      "star": "&#9733; &#9733; &#9733; &#9733; &#9733;"
     },
     {
-      "id": 13,
-      "image": "https://m.media-amazon.com/images/I/71OMkkfrJfL._AC_UL320_.jpg",
-      "title": "AGARO Atom Electric Handheld Full Body Massager with 3 Massage Heads & Variable Speed Settings for Pain Relief and Relaxation, Back, Leg & Foot, Black",
-      "price": "₹1,495"
+      "id": "50",
+      "name": "Classic Logo Windbreaker",
+      "image": "https://www.deathwishcoffee.com/cdn/shop/products/Deathmas-135.jpg?v=1675697100&width=533",
+      "price": "60.00",
+      "description": "Stay protected from the elements in style with this Classic Logo Windbreaker, featuring our iconic logo.",
+      "rating": "1",
+      "star": "&#9733; &#9734; &#9734; &#9734; &#9734;"
     },
     {
-      "id": 14,
-      "image": "https://m.media-amazon.com/images/I/51m7Mke2XSL._AC_UL320_.jpg",
-      "title": "ALHAMZA Black Prince Powerful Double Speed Built Professional Electric Massager for Full Body Massage",
-      "price": "₹3,500"
+      "id": "51",
+      "name": "Shadow Windbreaker",
+      "image": "https://www.deathwishcoffee.com/cdn/shop/files/DWC_March_Product_WindbreakerFront_Web.jpg?v=1710788756&width=533",
+      "price": "60.00",
+      "description": "Embrace the shadows with this Shadow Windbreaker, perfect for adding a touch of mystery to your look.",
+      "rating": "3",
+      "star": "&#9733; &#9733; &#9733; &#9734; &#9734;"
     },
     {
-      "id": 15,
-      "image": "https://m.media-amazon.com/images/I/71zGI2igk5L._AC_UL320_.jpg",
-      "title": "AGARO Dual Channel TENS Massager TM2421 24 Modes, 20 Intensity Levels, Rechargeable, Muscle/Nerve Stimulator for Pain Relief Therapy, Physiotherapy Machine, 10 Gel Pads, Period Pain, Pulse Massager",
-      "price": "₹4,999"
+      "id": "52",
+      "name": "2024 Death Wish Coffee Mug",
+      "image": "https://www.deathwishcoffee.com/cdn/shop/files/2024UrnMug-101.jpg?v=1702928309&width=533",
+      "price": "38.00",
+      "description": "Start your day off right with this 2024 Death Wish Coffee Mug, featuring a unique design that's sure to make a statement.",
+      "rating": "5",
+      "star": "&#9733; &#9733; &#9733; &#9733; &#9733;"
     },
     {
-      "id": 16,
-      "image": "https://m.media-amazon.com/images/I/71pny5nCjnL._AC_UL320_.jpg",
-      "title": "Dr Trust Physio (USA) Electric Heat Shiatsu Machine Body Massagers (for Cervical Neck Shoulder & Back Pain Relief)",
-      "price": "₹4,000"
+      "id": "53",
+      "name": "Pitch Black Pour Over",
+      "image": "https://www.deathwishcoffee.com/cdn/shop/files/Ceramic-PourOver-117.jpg?v=1706043346&width=533",
+      "price": "25.00",
+      "description": "Brew the perfect cup of coffee with this Pitch Black Pour Over, designed for coffee enthusiasts who appreciate quality and style.",
+      "rating": "2",
+      "star": "&#9733; &#9733; &#9734; &#9734; &#9734;"
     },
     {
-      "id": 17,
-      "image": "https://m.media-amazon.com/images/I/4189-hvrWbL._AC_UL320_.jpg",
-      "title": "Lifelong LLM09 Mini Head and Body Massager, Portable Compact Full Body Vibration Electric Massager Battery Operated Massager for Pain Relief (1 Year Warranty,Brown)",
-      "price": "₹1,350"
+      "id": "54",
+      "name": "Rise & Grinder",
+      "image": "https://www.deathwishcoffee.com/cdn/shop/files/HandGrinder_150.jpg?v=1695057452&width=533",
+      "price": "25.00",
+      "description": "Grind your coffee beans to perfection with this Rise & Grinder, perfect for coffee lovers who prefer freshly ground coffee.",
+      "rating": "4",
+      "star": "&#9733; &#9733; &#9733; &#9733; &#9734;"
     },
     {
-      "id": 18,
-      "image": "https://m.media-amazon.com/images/I/71uaT069fwL._AC_UL320_.jpg",
-      "title": "FEGSY Personal Body Massager for Women, Men, Rechargeable Wireless Vibration Machine for Female with 20 Vibration Modes, 8 Speeds, Flexible Head for Targeted Compression (Black)",
-      "price": "₹1,199"
+      "id": "55",
+      "name": "Society of Strong Mug",
+      "image": "https://www.deathwishcoffee.com/cdn/shop/files/DeathWishCoffee_SocietyOfStrong_Mug_Front_057_Web-_1.jpg?v=1708094955&width=533",
+      "price": "38.00",
+      "description": "Show your strength with this Society of Strong Mug, perfect for enjoying your favorite brew while embracing your inner power.",
+      "rating": "1",
+      "star": "&#9733; &#9734; &#9734; &#9734; &#9734;"
     },
     {
-      "id": 19,
-      "image": "https://m.media-amazon.com/images/I/61KCFnAQbnL._AC_UL320_.jpg",
-      "title": "Dr Physio Supervolt Go 1023 Pro Cordless Rechargeable Portable Massager for Deep Tissue Muscle Massage, Body Relaxation and Pain Relief- (Matte Black) …",
-      "price": "₹6,000"
+      "id": "56",
+      "name": "Shadow Logo Tee",
+      "image": "https://www.deathwishcoffee.com/cdn/shop/files/Tonal-100_1_266d3e9d-19e8-4612-a3a3-0428acfa831d.jpg?v=1709568347&width=533",
+      "price": "26.00",
+      "description": "Add some mystery to your wardrobe with this Shadow Logo Tee, featuring our iconic logo in a subtle tonal print.",
+      "rating": "3",
+      "star": "&#9733; &#9733; &#9733; &#9734; &#9734;"
     },
     {
-      "id": 20,
-      "image": "https://m.media-amazon.com/images/I/61neWpptTzL._AC_UL320_.jpg",
-      "title": "SAPPHIRE INDIA Rechargeable Body Massager for Women and Men / Handheld Waterproof Vibrate Wand Massage Machine with 20 Vibration Modes - 8 Speeds, Battery Powered, Full Body Massager, Multicolor",
-      "price": "₹1,599"
+      "id": "57",
+      "name": "Core Classic Logo Tee",
+      "image": "https://www.deathwishcoffee.com/cdn/shop/files/Classics-205_1.jpg?v=1709571198&width=533",
+      "price": "26.00",
+      "description": "Keep it classic with this Core Classic Logo Tee, featuring our iconic logo in a timeless design.",
+      "rating": "4",
+      "star": "&#9733; &#9733; &#9733; &#9733; &#9734;"
     },
     {
-      "id": 21,
-      "image": "https://m.media-amazon.com/images/I/61oiHHde+SL._AC_UL320_.jpg",
-      "title": "Dr Trust (USA) Long Acupressure Foam Roller For Deep Tissue Muscle Massage Exercise Fitness and pain relief Equipment",
-      "price": "₹1,900"
+      "id": "58",
+      "name": "Society Insignia Hat",
+      "image": "https://www.deathwishcoffee.com/cdn/shop/files/DeathWishCoffee_SocietyOfStrong_Hat_Front_063_Web-_1.jpg?v=1708094929&width=533",
+      "price": "25.00",
+      "description": "Top off your look with this Society Insignia Hat, featuring the emblem of the Society of Strong.",
+      "rating": "5",
+      "star": "&#9733; &#9733; &#9733; &#9733; &#9733;"
     },
     {
-      "id": 22,
-      "image": "https://m.media-amazon.com/images/I/51baGmHlQuL._AC_UL320_.jpg",
-      "title": "MORWEN HERBAL MASSAGE POTLI (PACK OF 1), Authentic Ayurveda, 100% Natural, Herbal Compress Ball, Khizi, Thai Massage Potli, Aromatherapy Massage for Home, Spa & Professional Use",
-      "price": "₹345"
+      "id": "59",
+      "name": "Anthony Alfredo No. 62 Snapback",
+      "image": "https://www.deathwishcoffee.com/cdn/shop/files/DeathWishCoffee_February24_Snapback_Web.jpg?v=1707316480&width=533",
+      "price": "35.00",
+      "description": "Sport a classic look with this Anthony Alfredo No. 62 Snapback, perfect for any fan of the iconic driver.",
+      "rating": "3",
+      "star": "&#9733; &#9733; &#9733; &#9734; &#9734;"
     },
     {
-      "id": 23,
-      "image": "https://m.media-amazon.com/images/I/61RNOzux+WL._AC_UL320_.jpg",
-      "title": "R A PRODUCTS Blueidea Corded Electric Digital Therapy Machine Relax from Stress And Tiredness for Full-Body Massage",
-      "price": "₹899"
+      "id": "60",
+      "name": "Sacred Truth Work Jacket",
+      "image": "https://www.deathwishcoffee.com/cdn/shop/files/DeathWishCoffee_SocietyOfStrong_Jacket_Front_045_Web_712b1fec-946f-428c-b35c-475e7c627c18.jpg?v=1705614243&width=533",
+      "price": "125.00",
+      "description": "Stay warm and stylish with this Sacred Truth Work Jacket, featuring the emblem of the Society of Strong.",
+      "rating": "4",
+      "star": "&#9733; &#9733; &#9733; &#9733; &#9734;"
     },
     {
-      "image": "https://m.media-amazon.com/images/I/51E04nA83qL._AC_UL320_.jpg",
-      "title": "VRINIV Cordless Knee Massager For Pain Relief |Knee Massager, Electric Knee Massage Machine with Infrared Heated Vibration Physiotherapy Also Useful For Shoulder,Arms|GEN 2 |1 Year Warranty",
-      "price": "₹3,847"
+      "id": "61",
+      "name": "Society Insignia Hoodie",
+      "image": "https://www.deathwishcoffee.com/cdn/shop/files/DeathWishCoffee_SocietyOfStrong_Hoodie_Front_039_Web_080b5515-f213-471a-8758-14def08a675c.jpg?v=1705614139&width=533",
+      "price": "45.00",
+      "description": "Stay cozy and show your allegiance with this Society Insignia Hoodie, featuring the emblem of the Society of Strong.",
+      "rating": "1",
+      "star": "&#9733; &#9734; &#9734; &#9734; &#9734;"
     },
     {
-      "id": 24,
-      "image": "https://m.media-amazon.com/images/I/81Zyn+K8IqL._AC_UL320_.jpg",
-      "title": "MEDITIVE Cordless Deep Tissue Massage Gun With 8 Attachments, Handheld Massager Sport Massage Gun Heads Powerful Percussion Muscle Massage Gun for Athletes Back Pain Relief with 1 year warranty.",
-      "price": "₹4,499"
+      "id": "62",
+      "name": "Society Insignia Tee",
+      "image": "https://www.deathwishcoffee.com/cdn/shop/files/DeathWishCoffee_SocietyOfStrong_Shirt_Front_036_Web_bc22a5e1-2287-4088-bb39-58d99738cb4d.jpg?v=1705614173&width=533",
+      "price": "30.00",
+      "description": "Join the Society of Strong in style with this Insignia Tee, showcasing the emblem of strength and unity.",
+      "rating": "3",
+      "star": "&#9733; &#9733; &#9733; &#9734; &#9734;"
     },
     {
-      "id": 25,
-      "image": "https://m.media-amazon.com/images/I/61LdVBcy3oL._AC_UL320_.jpg",
-      "title": "beatXP Deep Heal Shiatsu Massager with Infrared Heat Therapy | Deep Tissue Full Body Massager with 4D Kneading Massage for Shoulder, Neck, Back, Muscle Pain Relief, 1 Year Warranty, Corded Electric",
-      "price": "₹7,999"
+      "id": "63",
+      "name": "Classic Logo Crewneck",
+      "image": "https://www.deathwishcoffee.com/cdn/shop/products/FathersDay-311_1.jpg?v=1675697254&width=533",
+      "price": "45.00",
+      "description": "Stay cozy and on-trend with this Classic Logo Crewneck, featuring our iconic logo in a classic design.",
+      "rating": "5",
+      "star": "&#9733; &#9733; &#9733; &#9733; &#9733;"
     },
     {
-      "id": 26,
-      "image": "https://m.media-amazon.com/images/I/711RabLyyhL._AC_UL320_.jpg",
-      "title": "AGARO Impact Electric Gun Massager, Handheld With 6 Massage Heads, 5 Speed, For Deep Tissue Massage, Body Relaxation And Pain Relief (Black)",
-      "price": "₹3,995"
+      "id": "64",
+      "name": "Classic Henley",
+      "image": "https://www.deathwishcoffee.com/cdn/shop/files/Henley-154.jpg?v=1700576521&width=533",
+      "price": "45.00",
+      "description": "Elevate your casual wardrobe with this Classic Henley, perfect for layering or wearing on its own.",
+      "rating": "4",
+      "star": "&#9733; &#9733; &#9733; &#9733; &#9734;"
     },
     {
-      "id": 27,
-      "image": "https://m.media-amazon.com/images/I/51IqRv877DL._AC_UL320_.jpg",
-      "title": "Ancient Living Organic Relaxing Foot Massage Oil with Foot Massager",
-      "price": "₹399"
+      "id": "65",
+      "name": "Fortune Teller Tankard",
+      "image": "https://www.deathwishcoffee.com/cdn/shop/files/Fortune_Teller_Tankard_100.jpg?v=1697204726&width=533",
+      "price": "46.00",
+      "description": "Sip your favorite brews in mystic style with this Fortune Teller Tankard, adorned with intricate fortune telling designs.",
+      "rating": "2",
+      "star": "&#9733; &#9733; &#9734; &#9734; &#9734;"
     },
     {
-      "id": 28,
-      "image": "https://m.media-amazon.com/images/I/715mJb47wFL._AC_UL320_.jpg",
-      "title": "AGARO M6542 Massage Mat with Lukewarm Heat-10 Motors Vibrating Massage Mattress Pad with 2 Heating Pads for Back, Full Body Massager for Neck and Back, Lumbar Calf Muscle Relaxation",
-      "price": "₹9,995"
+      "id": "66",
+      "name": "Fortune Teller Long Sleeve",
+      "image": "https://www.deathwishcoffee.com/cdn/shop/files/Fortune_Teller_Long_Sleeve_110.jpg?v=1697469519&width=533",
+      "price": "25.00",
+      "description": "Embrace the enigmatic with this Fortune Teller Long Sleeve shirt, featuring captivating artwork inspired by fortune telling.",
+      "rating": "5",
+      "star": "&#9733; &#9733; &#9733; &#9733; &#9733;"
     },
     {
-      "id": 29,
-      "image": "https://m.media-amazon.com/images/I/51X1QVza9DL._AC_UL320_.jpg",
-      "title": "Auravedic Relaxing Body Massage oil for full body 200 ml Massage oil with Lavender oil, Eucalyptus oil, Mint oil. Soothing and Destressing body massage oil for women and men",
-      "price": "₹400"
+      "id": "67",
+      "name": "Crossbones Klean Kanteen Mug",
+      "image": "https://www.deathwishcoffee.com/cdn/shop/products/MetalCore-101.jpg?v=1674569558&width=533",
+      "price": "25.00",
+      "description": "Stay hydrated with an edge using this Crossbones Klean Kanteen Mug, perfect for enjoying your favorite beverages.",
+      "rating": "4",
+      "star": "&#9733; &#9733; &#9733; &#9733; &#9734;"
     },
     {
-      "id": 30,
-      "image": "https://m.media-amazon.com/images/I/61qyKZgWqDL._AC_UL320_.jpg",
-      "title": "AGARO REGAL Electric Handheld Full Body Massager with 8 Massage Heads and Variable Speed Settings for Pain Relief and Relaxation, Back, Leg & Foot, Blue",
-      "price": "₹3,195"
+      "id": "68",
+      "name": "Klean Kanteen Camping Bundle",
+      "image": "https://www.deathwishcoffee.com/cdn/shop/files/Mothman-227.jpg?v=1691774076&width=533",
+      "price": "60.00",
+      "description": "Gear up for your next adventure with the Klean Kanteen Camping Bundle, featuring everything you need for hydration on-the-go.",
+      "rating": "1",
+      "star": "&#9733; &#9734; &#9734; &#9734; &#9734;"
     },
     {
-      "id": 31,
-      "image": "https://m.media-amazon.com/images/I/61zF8Y1nHML._AC_UL320_.jpg",
-      "title": "AGARO MARVEL Electric Handheld Full Body Massager with 8 Massage Heads, 5 Mode & 6 Speed Settings for Back, Leg & Foot, White",
-      "price": "₹1,995"
+      "id": "69",
+      "name": "Classic Logo Hoodie",
+      "image": "https://www.deathwishcoffee.com/cdn/shop/files/Classics-193.jpg?v=1683134398&width=533",
+      "price": "45.00",
+      "description": "Stay warm and stylish with this Classic Logo Hoodie, showcasing our iconic logo in a comfortable and versatile design.",
+      "rating": "5",
+      "star": "&#9733; &#9733; &#9733; &#9733; &#9733;"
     },
     {
-      "id": 32,
-      "image": "https://m.media-amazon.com/images/I/71vw+ykG+aL._AC_UL320_.jpg",
-      "title": "MEDITIVE Foam Roller For Gym and Home Workout, Deep Tissue Massage For Physical Therapy Exercise & Back Pain Massager Pain Relief Best For Muscle Recovery",
-      "price": "₹1,399"
+      "id": "70",
+      "name": "The Classic Kanteen",
+      "image": "https://www.deathwishcoffee.com/cdn/shop/products/Kanteen-100.jpg?v=1679937513&width=533",
+      "price": "40.00",
+      "description": "Keep your drinks hot or cold on-the-go with The Classic Kanteen, a durable and stylish solution for all your hydration needs.",
+      "rating": "1",
+      "star": "&#9733; &#9734; &#9734; &#9734; &#9734;"
+    },
+    {
+      "id": "71",
+      "name": "The Mug Warmer",
+      "image": "https://www.deathwishcoffee.com/cdn/shop/products/MugWarmer-119.jpg?v=1650638646&width=533",
+      "price": "32.00",
+      "description": "Keep your favorite brews at the perfect temperature with The Mug Warmer, essential for any coffee connoisseur.",
+      "rating": "3",
+      "star": "&#9733; &#9733; &#9733; &#9734; &#9734;"
+    },
+    {
+      "id": "72",
+      "name": "Ripstop Reusable Tote",
+      "image": "https://www.deathwishcoffee.com/cdn/shop/files/ReusableTote-Black.jpg?v=1692756618&width=533",
+      "price": "15.00",
+      "description": "Reduce waste in style with this Ripstop Reusable Tote, perfect for groceries, trips to the beach, and everyday use.",
+      "rating": "5",
+      "star": "&#9733; &#9733; &#9733; &#9733; &#9733;"
+    },
+    {
+      "id": "73",
+      "name": "Classic Logo Zip Hoodie",
+      "image": "https://www.deathwishcoffee.com/cdn/shop/files/Classics-213.jpg?v=1683135190&width=533",
+      "price": "45.00",
+      "description": "Stay warm and comfortable in any weather with this Classic Logo Zip Hoodie, featuring our iconic logo in a convenient zip-up design.",
+      "rating": "1",
+      "star": "&#9733; &#9734; &#9734; &#9734; &#9734;"
+    },
+    {
+      "id": "74",
+      "name": "Dark Roast Flannel",
+      "image": "https://www.deathwishcoffee.com/cdn/shop/files/Dark_Roast_Flannel_101.jpg?v=1697817369&width=533",
+      "price": "45.00",
+      "description": "Stay cozy and rugged with this Dark Roast Flannel, perfect for outdoor adventures or cozy nights by the fire.",
+      "rating": "3",
+      "star": "&#9733; &#9733; &#9733; &#9734; &#9734;"
+    },
+    {
+      "id": "75",
+      "name": "Dark Roast Flannel Pants",
+      "image": "https://www.deathwishcoffee.com/cdn/shop/files/Dark_Roast_Flannel_Pants_106.jpg?v=1697817557&width=533",
+      "price": "45.00",
+      "description": "Relax in style with these Dark Roast Flannel Pants, perfect for lounging around the house or running errands.",
+      "rating": "1",
+      "star": "&#9733; &#9734; &#9734; &#9734; &#9734;"
+    },
+    {
+      "id": "76",
+      "name": "Medium Roast Flannel",
+      "image": "https://www.deathwishcoffee.com/cdn/shop/files/Medium_Roast_Flannel_110.jpg?v=1697817500&width=533",
+      "price": "45.00",
+      "description": "Find the perfect balance of comfort and style with this Medium Roast Flannel, perfect for everyday wear.",
+      "rating": "5",
+      "star": "&#9733; &#9733; &#9733; &#9733; &#9733;"
+    },
+    {
+      "id": "77",
+      "name": "Classic Snapback",
+      "image": "https://www.deathwishcoffee.com/cdn/shop/files/ClassicSnapback-115.jpg?v=1695757070&width=533",
+      "price": "25.00",
+      "description": "Top off any outfit with this Classic Snapback, featuring our iconic logo and a timeless design.",
+      "rating": "3",
+      "star": "&#9733; &#9733; &#9733; &#9734; &#9734;"
+    },
+    {
+      "id": "78",
+      "name": "Classic Dad Hat",
+      "image": "https://www.deathwishcoffee.com/cdn/shop/files/Dad_Hat_100.jpg?v=1698248414&width=533",
+      "price": "25.00",
+      "description": "Keep it casual and cool with this Classic Dad Hat, perfect for sunny days and laid-back vibes.",
+      "rating": "2",
+      "star": "&#9733; &#9733; &#9734; &#9734; &#9734;"
+    },
+    {
+      "id": "79",
+      "name": "Classic Long Sleeve",
+      "image": "https://www.deathwishcoffee.com/cdn/shop/files/Classics-200.jpg?v=1683134634&width=533",
+      "price": "30.00",
+      "description": "Stay comfortable and stylish with this Classic Long Sleeve shirt, perfect for layering or wearing on its own."
+    },
+    {
+      "id": "80",
+      "name": "No Sleep Sweatpants",
+      "image": "https://www.deathwishcoffee.com/cdn/shop/files/No_Sleep_Sweatpants_110.jpg?v=1696860913&width=533",
+      "price": "43.00",
+      "description": "Relax in comfort and style with these No Sleep Sweatpants, perfect for lounging at home or running errands.",
+      "rating": "5",
+      "star": "&#9733; &#9733; &#9733; &#9733; &#9733;"
+    },
+    {
+      "id": "81",
+      "name": "Shadow Logo Hoodie",
+      "image": "https://www.deathwishcoffee.com/cdn/shop/files/Shadow_Logo_Hoodie_1.jpg?v=1696518928&width=533",
+      "price": "40.00",
+      "description": "Stay cozy and on-trend with this Shadow Logo Hoodie, featuring a sleek design and comfortable fit.",
+      "rating": "1",
+      "star": "&#9733; &#9734; &#9734; &#9734; &#9734;"
+    },
+    {
+      "id": "82",
+      "name": "It's Black and White Striped Tee",
+      "image": "https://www.deathwishcoffee.com/cdn/shop/files/StripedTee-1.jpg?v=1693415096&width=533",
+      "price": "26.00",
+      "description": "Make a bold statement with this Black and White Striped Tee, featuring a timeless design and comfortable fit.",
+      "rating": "2",
+      "star": "&#9733; &#9733; &#9734; &#9734; &#9734;"
+    },
+    {
+      "id": "83",
+      "name": "Bolt Board Shorts",
+      "image": "https://www.deathwishcoffee.com/cdn/shop/files/Beach-100.jpg?v=1687265417&width=533",
+      "price": "36.00",
+      "description": "Hit the beach in style with these Bolt Board Shorts, featuring a comfortable fit and eye-catching design.",
+      "rating": "3",
+      "star": "&#9733; &#9733; &#9733; &#9734; &#9734;"
+    },
+    {
+      "id": "84",
+      "name": "Classic Pocket Tee",
+      "image": "https://www.deathwishcoffee.com/cdn/shop/files/Classics-209.jpg?v=1683134861&width=533",
+      "price": "33.00",
+      "description": "Stay cool and casual with this Classic Pocket Tee, featuring a convenient pocket and comfortable fit.",
+      "rating": "5",
+      "star": "&#9733; &#9733; &#9733; &#9733; &#9733;"
+    },
+    {
+      "id": "85",
+      "name": "Shadow Canister",
+      "image": "https://www.deathwishcoffee.com/cdn/shop/files/Tonal-116.jpg?v=1683730394&width=533",
+      "price": "30.00",
+      "description": "Store your favorite brews in style with this Shadow Canister, perfect for keeping your coffee fresh and flavorful.",
+      "rating": "3",
+      "star": "&#9733; &#9733; &#9733; &#9734; &#9734;"
     }
   ],
-  "cartdata": [
+  "bundles_Data": [
     {
-      "id": 12,
-      "quantity": 1,
-      "img": "https://m.media-amazon.com/images/I/71IubON1wRS._AC_UL320_.jpg",
-      "title": "Pratiharye Women's Solid Above knee Baby Doll(Pack of 2)",
-      "price": 999,
-      "categroy": "cloth"
+      "id": "86",
+      "description": "Experience the ultimate caffeine kick with our Triple Threat Coffee Bundle. Includes three bags of ground coffee.",
+      "name": "Triple Threat Coffee Bundle",
+      "image": "https://www.deathwishcoffee.com/cdn/shop/files/Triple_Threat_Coffee_Bundle_Ground-_1.jpg?v=1707501096&width=533",
+      "price": "54.99",
+      "rating": "3",
+      "star": "&#9733; &#9733; &#9733; &#9734; &#9734;"
     },
     {
-      "id": 21,
-      "quantity": 1,
-      "img": "https://m.media-amazon.com/images/I/61J2gr1xbLL._AC_UL320_.jpg",
-      "title": "Dettol Liquid Handwash Refill – Skincare Hand Wash- 1500ml | pH Balanced | 10x Better Germ Protection",
-      "price": 209
+      "id": "87",
+      "description": "Get your caffeine fix on the go with our Triple Threat Single-Serve Pod Bundle. Includes a variety of single-serve coffee pods.",
+      "name": "Triple Threat Single-Serve Pod Bundle",
+      "image": "https://www.deathwishcoffee.com/cdn/shop/files/Triple_Threat_Coffee_Bundle_Vertical_Death_Cups-_1.jpg?v=1707501158&width=533",
+      "price": "43.99",
+      "rating": "4",
+      "star": "&#9733; &#9733; &#9733; &#9733; &#9734;"
     },
     {
-      "id": 37,
-      "quantity": 1,
-      "img": "https://m.media-amazon.com/images/I/616wKg82wWL._AC_UL320_.jpg",
-      "title": "Yellow Chimes Rings for Women Multicolor Floral Adjustable Ring Sparkling Love Swiss Zircon Rose Gold Plated Rings for Women and Girls.",
-      "price": 1388,
-      "categroy": "beauty"
+      "id": "88",
+      "description": "Indulge in rich flavors with our Double Indulgence Ground Bundle. Includes two bags of ground coffee.",
+      "name": "Double Indulgence Ground Bundle",
+      "image": "https://www.deathwishcoffee.com/cdn/shop/files/Double_Indulgence_Ground_Angle_A1_5215f79e-75e1-4371-a199-84fe4179981d.jpg?v=1707503631&width=533",
+      "price": "39.98",
+      "rating": "3",
+      "star": "&#9733; &#9733; &#9733; &#9734; &#9734;"
     },
     {
-      "id": 10,
-      "quantity": 1,
-      "img": "https://m.media-amazon.com/images/I/71JnC0xndnL._AC_UL320_.jpg",
-      "title": "Maggi 2-Minute Masala Instant Noodles, 280 grams Pouch",
-      "price": 55,
-      "categroy": "food"
+      "id": "89",
+      "description": "Enjoy the convenience of our Double Indulgence Single-Serve Pod Bundle. Includes a variety of single-serve coffee pods.",
+      "name": "Double Indulgence Single-Serve Pod Bundle",
+      "image": "https://www.deathwishcoffee.com/cdn/shop/files/Double_Indulgence_Cups_Angle_f9e40cbd-d8fa-49b9-821f-25c779b34326.jpg?v=1707503716&width=533",
+      "price": "31.98",
+      "rating": "4",
+      "star": "&#9733; &#9733; &#9733; &#9733; &#9734;"
+    },
+    {
+      "id": "90",
+      "description": "Turn up the flavor with our Turn Up Trio Bundle. Includes three bags of ground coffee.",
+      "name": "Turn Up Trio Bundle",
+      "image": "https://www.deathwishcoffee.com/cdn/shop/files/Turn_Up_Trio_7d4040a8-01ec-4dac-9118-4ac81bcb6fbb.jpg?v=1707501056&width=533",
+      "price": "35.99",
+      "rating": "3",
+      "star": "&#9733; &#9733; &#9733; &#9734; &#9734;"
+    },
+    {
+      "id": "91",
+      "description": "Experience a perfect balance of dark and medium roasts with our Dark Roast + Medium Roast Bundle. Includes one bag of each.",
+      "name": "Dark Roast + Medium Roast Bundle",
+      "image": "https://www.deathwishcoffee.com/cdn/shop/files/Dark_Roast_Medium_Roast_16oz_Ground_Angle_A1_5d4d972b-f502-4b41-8ebe-d0f28413196b.jpg?v=1707503317&width=533",
+      "price": "39.98",
+      "rating": "5",
+      "star": "&#9733; &#9733; &#9733; &#9733; &#9733;"
+    },
+    {
+      "id": "92",
+      "description": "Enjoy the rich flavors of our Dark Roast + Medium Roast Single-Serve Pod Bundle. Includes a variety of single-serve coffee pods.",
+      "name": "Dark Roast + Medium Roast Single-Serve Pod Bundle",
+      "image": "https://www.deathwishcoffee.com/cdn/shop/files/Dark_Roast_Medium_Roast_Cups_Bundle_1ee4fb47-a372-4be5-83c8-f116768104ba.jpg?v=1707503380&width=533",
+      "price": "29.98",
+      "rating": "1",
+      "star": "&#9733; &#9734; &#9734; &#9734; &#9734;"
+    },
+    {
+      "id": "93",
+      "description": "Experience bold flavors with our Dark Roast + Espresso Roast Bundle. Includes one bag of each.",
+      "name": "Dark Roast + Espresso Roast Bundle",
+      "image": "https://www.deathwishcoffee.com/cdn/shop/files/Dark_Roast_Espresso_Roast_Ground_Angle_A1_e92fcdf4-9966-4073-b63d-a202d9309e4e.jpg?v=1707503158&width=533",
+      "price": "39.98",
+      "rating": "5",
+      "star": "&#9733; &#9733; &#9733; &#9733; &#9733;"
+    },
+    {
+      "id": "94",
+      "description": "Get your caffeine fix with a twist by trying our Dark Roast + Espresso Roast Single-Serve Pod Bundle. Includes a variety of single-serve coffee pods.",
+      "name": "Dark Roast + Espresso Roast Single-Serve Pod Bundle",
+      "image": "https://www.deathwishcoffee.com/cdn/shop/files/Dark_Roast_Espresso_Roast_Cups_Bundle_7927b93b-8074-42b9-8d5e-adb2d2c0ba8e.jpg?v=1707503245&width=533",
+      "price": "29.98",
+      "rating": "2",
+      "star": "&#9733; &#9733; &#9734; &#9734; &#9734;"
+    },
+    {
+      "id": "95",
+      "description": "Experience a blend of our Dark Roast and Valhalla Java with our bundle. Includes one bag of each.",
+      "name": "Dark Roast + Valhalla Java Bundle",
+      "image": "https://www.deathwishcoffee.com/cdn/shop/files/Dark_Roast_Valhalla_Java_Whole_Bean_Angle_A1_4d4f426e-d632-4314-a5c9-6d3c5a637296.jpg?v=1707503477&width=533",
+      "price": "35.98",
+      "rating": "5",
+      "star": "&#9733; &#9733; &#9733; &#9733; &#9733;"
+    },
+    {
+      "id": "96",
+      "description": "Experience the bold flavors of our Dark Roast + Valhalla Java Single-Serve Pod Bundle. Includes a variety of single-serve coffee pods.",
+      "name": "Dark Roast + Valhalla Java Single-Serve Pod Bundle",
+      "image": "https://www.deathwishcoffee.com/cdn/shop/files/Dark_Roast_Valhalla_Java_Cups_Bundle_54e5df18-cf9b-4baf-a8c4-ba4bd6a181a6.jpg?v=1707503544&width=533",
+      "price": "29.98",
+      "rating": "4",
+      "star": "&#9733; &#9733; &#9733; &#9733; &#9734;"
+    },
+    {
+      "id": "97",
+      "description": "Experience the perfect balance of Medium Roast and Valhalla Java with our bundle. Includes one bag of each.",
+      "name": "Medium Roast + Valhalla Java Bundle",
+      "image": "https://www.deathwishcoffee.com/cdn/shop/files/Medium_Roast_Valhalla_Java_Ground_Angle_A1_a5bd68f1-92c6-4b1a-8d6d-79182a483398.jpg?v=1707504633&width=533",
+      "price": "35.98",
+      "rating": "5",
+      "star": "&#9733; &#9733; &#9733; &#9733; &#9733;"
+    },
+    {
+      "id": "98",
+      "description": "Experience the bold flavors of our Medium Roast + Valhalla Java Single-Serve Pod Bundle. Includes a variety of single-serve coffee pods.",
+      "name": "Medium Roast + Valhalla Java Single-Serve Pod Bundle",
+      "image": "https://www.deathwishcoffee.com/cdn/shop/files/Medium_Roast_Valhalla_Java_Cups_Bundle_be91591d-9dde-4425-9fdb-995d53bed657.jpg?v=1707504676&width=533",
+      "price": "29.98",
+      "rating": "4",
+      "star": "&#9733; &#9733; &#9733; &#9733; &#9734;"
+    },
+    {
+      "id": "99",
+      "description": "Experience a bold blend of our Espresso Roast and Valhalla Java with our bundle. Includes one bag of each.",
+      "name": "Espresso Roast + Valhalla Java Bundle",
+      "image": "https://www.deathwishcoffee.com/cdn/shop/files/Espresso_Roast_Valhalla_Java_Ground_Angle_A1_e8057818-31b1-49ce-92c6-902c6787524b.jpg?v=1707504405&width=533",
+      "price": "35.98",
+      "rating": "2",
+      "star": "&#9733; &#9733; &#9734; &#9734; &#9734;"
+    },
+    {
+      "id": "100",
+      "description": "Enjoy the bold flavors of our Espresso Roast + Valhalla Java Single-Serve Pod Bundle. Includes a variety of single-serve coffee pods.",
+      "name": "Espresso Roast + Valhalla Java Single-Serve Pod Bundle",
+      "image": "https://www.deathwishcoffee.com/cdn/shop/files/Valhalla_Java_Espresso_Roast_Death_Cup_Bundle_28d5e09c-1e2c-4f91-94cc-efb3dac9da61.jpg?v=1707504447&width=533",
+      "price": "29.98",
+      "rating": "3",
+      "star": "&#9733; &#9733; &#9733; &#9734; &#9734;"
+    },
+    {
+      "id": "101",
+      "description": "Indulge in bold flavors with our Espresso Roast + Medium Roast Bundle. Includes one bag of each.",
+      "name": "Espresso Roast + Medium Roast Bundle",
+      "image": "https://www.deathwishcoffee.com/cdn/shop/files/Espresso_Roast_Medium_Roast_Ground_Angle_A1_24d73ada-554e-4f99-bca9-794473742d3b.jpg?v=1707504202&width=533",
+      "price": "39.98",
+      "rating": "1",
+      "star": "&#9733; &#9734; &#9734; &#9734; &#9734;"
+    },
+    {
+      "id": "102",
+      "description": "Enjoy the bold flavors of our Espresso Roast + Medium Roast Single-Serve Pod Bundle. Includes a variety of single-serve coffee pods.",
+      "name": "Espresso Roast + Medium Roast Single-Serve Pod Bundle",
+      "image": "https://www.deathwishcoffee.com/cdn/shop/files/Espresso_Roast_Medium_Roast_Cups_Bundle_70a1144d-c81f-46e3-8a76-ecd5efe602fc.jpg?v=1707504261&width=533",
+      "price": "29.98",
+      "rating": "5",
+      "star": "&#9733; &#9733; &#9733; &#9733; &#9733;"
+    },
+    {
+      "id": "103",
+      "description": "Keep your drinks cool in style with our Cold Hearted Cooler & Koozie Bundle. Includes a cooler and koozie.",
+      "name": "Cold Hearted Cooler & Koozie Bundle",
+      "image": "https://www.deathwishcoffee.com/cdn/shop/files/DWC_April_CoolerandKoozie_Front_Web.jpg?v=1712250430&width=533",
+      "price": "30.00",
+      "rating": "2",
+      "star": "&#9733; &#9733; &#9734; &#9734; &#9734;"
     }
   ]
 }
