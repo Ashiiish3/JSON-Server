@@ -2,8 +2,8 @@
   "data": [
     {
       "id": "1",
-      "image": "../Public/images/coffee 1.webp",
-      "title": "Flavor Fiends Soda Can Glass Set",
+      "image": "https://www.deathwishcoffee.com/cdn/shop/files/Tree-of-life-mug-Death-Wish-Coffee.jpg?v=1713874556&width=533",
+      "title": "Tree of life Mug",
       "description": "Quench your thirst in style with our Flavor Fiends Soda Can Glass Set. These unique glasses are perfect for enjoying your favorite beverages with friends and family.",
       "price": "70.00",
       "rating": "5",
@@ -11,7 +11,7 @@
     },
     {
       "id": "2",
-      "image": "../Public/images/coffee 2.webp",
+      "image": "https://www.deathwishcoffee.com/cdn/shop/files/Medium_Roast_Nespresso_10ct_Angle_Pods_PDP_A2-_2.jpg?v=1714133649&width=533",
       "title": "Almond Afterlife Single-Serve Pods",
       "description": "Indulge in the rich flavor of our Almond Afterlife Single-Serve Pods. Made from premium quality ingredients, these pods deliver a smooth and satisfying coffee experience.",
       "price": "15.99",
@@ -20,7 +20,7 @@
     },
     {
       "id": "3",
-      "image": "../Public/images/coffee 3.webp",
+      "image": "https://www.deathwishcoffee.com/cdn/shop/files/Espresso_Roast_Nespresso_10ct_Angle_Pods_PDP_A2-_3.jpg?v=1714133601&width=533",
       "title": "Classic Logo Windbreaker",
       "description": "Stay cozy and stylish with our Classic Logo Windbreaker. Featuring a timeless design and durable construction, this windbreaker is perfect for everyday wear.",
       "price": "60.00",
@@ -29,7 +29,7 @@
     },
     {
       "id": "4",
-      "image": "../Public/images/coffee 4.jpg",
+      "image": "https://www.deathwishcoffee.com/cdn/shop/files/Core_Nespresso_10ct_Angle_Pods_A1-_1.jpg?v=1714133698&width=533",
       "title": "Shadow Windbreaker",
       "description": "Embrace the elements with our Shadow Windbreaker. Designed for comfort and protection, this windbreaker is a must-have for outdoor enthusiasts.",
       "price": "60.00",
@@ -38,7 +38,7 @@
     },
     {
       "id": "5",
-      "image": "../Public/images/coffee 5.webp",
+      "image": "https://www.deathwishcoffee.com/cdn/shop/files/Fortune_Teller_Tankard_100.jpg?v=1697204726&width=533",
       "title": "Society Of Strong Mug",
       "description": "Start your day off right with our Society Of Strong Mug. Featuring a bold design and sturdy construction, this mug is perfect for enjoying your favorite hot beverages.",
       "price": "38.00",
@@ -56,7 +56,7 @@
     },
     {
       "id": "7",
-      "image": "../Public/images/coffee 7.webp",
+      "image": "https://www.deathwishcoffee.com/cdn/shop/files/DeathWishCoffee_February24_Snapback_Web.jpg?v=1707316480&width=533",
       "title": "Society Insignia Hat",
       "description": "Top off your look with our Society Insignia Hat. Featuring our iconic logo and a comfortable fit, this hat is a stylish addition to any outfit.",
       "price": "25.00",
@@ -65,8 +65,8 @@
     },
     {
       "id": "8",
-      "image": "../Public/images/coffee 8.webp",
-      "title": "Rise & Grinder",
+      "image": "https://www.deathwishcoffee.com/cdn/shop/files/DWC_April_Skateboard_black_Bottom_Web.jpg?v=1712685501&width=533",
+      "title": "Daily grind black skateboard Deck",
       "description": "Stay caffeinated and motivated with our Rise & Grinder coffee. Made from the finest beans, this blend delivers a bold and invigorating flavor with every sip.",
       "price": "28.00",
       "rating": "2",
@@ -76,7 +76,7 @@
   "seller-Data": [
     {
       "id": "9",
-      "image": "../Public/images/seller image 1.webp",
+      "image": "https://www.deathwishcoffee.com/cdn/shop/files/Dark_Roast_16oz_Ground_Angle_A1-_3.jpg?v=1707501545&width=533",
       "title": "Dark Roast Coffee",
       "description": "Indulge in the rich, bold flavor of our Dark Roast Coffee. Sourced from the finest beans and expertly roasted to perfection, this coffee is sure to delight your taste buds with every sip.",
       "price": "55.00",
@@ -85,7 +85,7 @@
     },
     {
       "id": "10",
-      "image": "../Public/images/seller image 2.webp",
+      "image": "https://www.deathwishcoffee.com/cdn/shop/files/Chocolate_Hazelnut_14oz_Ground_Angle_A1_963d87a8-ec42-42fb-8b8d-8e21d32ff6d2.jpg?v=1707505386&width=533",
       "title": "Dark Roast Single-Serve Pods",
       "description": "Experience the convenience and flavor of our Dark Roast Single-Serve Pods. Each pod is filled with rich, aromatic coffee that's perfect for brewing a quick and delicious cup anytime, anywhere.",
       "price": "75.99",
@@ -94,7 +94,7 @@
     },
     {
       "id": "11",
-      "image": "../Public/images/seller image 3.webp",
+      "image": "https://www.deathwishcoffee.com/cdn/shop/files/DeathWishCoffee_SocietyOfStrong_Mug_Front_057_Web-_1.jpg?v=1708094955&width=533",
       "title": "Chocolate Hazelnut Coffee",
       "description": "Treat yourself to a decadent blend of chocolate and hazelnut with our Chocolate Hazelnut Coffee. Made with premium ingredients, this coffee is a delightful indulgence for any time of day.",
       "price": "49.00",
@@ -103,7 +103,7 @@
     },
     {
       "id": "12",
-      "image": "../Public/images/seller image 4.webp",
+      "image": "https://www.deathwishcoffee.com/cdn/shop/files/Core_Nespresso_10ct_Angle_Pods_A1-_1.jpg?v=1714133698&width=533",
       "title": "Chocolate Hazelnut Single-Serve Pods",
       "description": "Enjoy the irresistible combination of chocolate and hazelnut in a convenient single-serve pod format. Our Chocolate Hazelnut Single-Serve Pods deliver the perfect balance of sweetness and richness in every cup.",
       "price": "60.00",
@@ -121,7 +121,7 @@
     },
     {
       "id": "14",
-      "image": "../Public/images/seller image 6.webp",
+      "image": "https://www.deathwishcoffee.com/cdn/shop/files/DeathWishCoffee_SocietyOfStrong_Jacket_Front_045_Web_712b1fec-946f-428c-b35c-475e7c627c18.jpg?v=1705614243&width=533",
       "title": "Sacred Truth Work Jacket",
       "description": "Stay warm and comfortable on the job with our Sacred Truth Work Jacket. Designed for durability and functionality, this jacket is an essential addition to any workwear wardrobe.",
       "price": "18.00",
@@ -130,7 +130,7 @@
     },
     {
       "id": "15",
-      "image": "../Public/images/seller image 7.webp",
+      "image": "https://www.deathwishcoffee.com/cdn/shop/files/Dark_Roast_10ct_Angle_Vertical_Pods_A1-_2_80a7a931-d037-40d3-a7aa-0a05df7f2e6f.jpg?v=1707502124&width=533",
       "title": "Medium Roast Coffee",
       "description": "Discover the perfect balance of flavor and intensity with our Medium Roast Coffee. With its smooth and versatile taste, this coffee is sure to become your new favorite morning brew.",
       "price": "72.00",
@@ -148,7 +148,7 @@
     },
     {
       "id": "17",
-      "image": "../Public/images/seller image 9.webp",
+      "image": "https://www.deathwishcoffee.com/cdn/shop/products/MetalCore-101.jpg?v=1674569558&width=533",
       "title": "Crossbones Klean Kanteen Mug",
       "description": "Stay hydrated in style with our Crossbones Klean Kanteen Mug. Featuring a sleek design and durable construction, this mug is perfect for enjoying your favorite beverages on the go.",
       "price": "17.00",
