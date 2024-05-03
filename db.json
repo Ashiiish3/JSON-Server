@@ -94,7 +94,7 @@
     },
     {
       "id": "11",
-      "image": "https://www.deathwishcoffee.com/cdn/shop/files/DeathWishCoffee_SocietyOfStrong_Mug_Front_057_Web-_1.jpg?v=1708094955&width=533",
+      "image": "https://www.deathwishcoffee.com/cdn/shop/files/Ceramic-PourOver-117.jpg?v=1706043346&width=533",
       "title": "Chocolate Hazelnut Coffee",
       "description": "Treat yourself to a decadent blend of chocolate and hazelnut with our Chocolate Hazelnut Coffee. Made with premium ingredients, this coffee is a delightful indulgence for any time of day.",
       "price": "49.00",
@@ -156,7 +156,9 @@
       "star": "&#9733; &#9733; &#9733; &#9734; &#9734;"
     }
   ],
-  "addToCartData": [],
+  "addToCartData": [
+
+  ],
   "coffee_data": [
     {
       "id": "18",
@@ -304,8 +306,8 @@
     },
     {
       "id": "34",
-      "image_url": "../Public/images/coffee 1.webp",
-      "name": "Flavor Fiends Soda Can Glass Set",
+      "image_url": "https://www.deathwishcoffee.com/cdn/shop/products/Cemex-108.jpg?v=1666105554",
+      "name": "6 Cup Chemex (with filter)",
       "description": "Add a touch of retro style to your drinkware collection with our Flavor Fiends Soda Can Glass Set. Featuring vibrant colors and a fun soda can design, these glasses are perfect for enjoying your favorite beverages in style.",
       "regular_price": "70.00",
       "rating": "1",
@@ -313,8 +315,8 @@
     },
     {
       "id": "35",
-      "image_url": "../Public/images/coffee 2.webp",
-      "name": "Almond Afterlife Single-Serve Pods",
+      "image_url": "https://www.deathwishcoffee.com/cdn/shop/files/Classics-205_1.jpg?v=1709571198&width=533",
+      "name": "Core classic logo tee",
       "description": "Experience the convenience and flavor of our Almond Afterlife Single-Serve Pods. Each pod is filled with the delicious taste of almond-infused coffee, perfect for enjoying on-the-go.",
       "regular_price": "15.99",
       "rating": "2",
@@ -322,7 +324,7 @@
     },
     {
       "id": "36",
-      "image_url": "../Public/images/coffee 3.webp",
+      "image_url": "https://www.deathwishcoffee.com/cdn/shop/files/Valhalla_Java_Espresso_Roast_Death_Cup_Bundle_28d5e09c-1e2c-4f91-94cc-efb3dac9da61.jpg?v=1707504447&width=533",
       "name": "Classic Logo Windbreaker",
       "description": "Stay stylish and comfortable in any weather with our Classic Logo Windbreaker. Featuring our iconic logo and made from durable materials, this windbreaker is perfect for outdoor adventures or casual wear.",
       "regular_price": "60.00",
@@ -331,8 +333,8 @@
     },
     {
       "id": "37",
-      "image_url": "../Public/images/coffee 4.jpg",
-      "name": "Shadow Windbreaker",
+      "image_url": "https://www.deathwishcoffee.com/cdn/shop/files/DWC_April_RaglanCreamators_Front_Web.jpg?v=1712240420&width=533",
+      "name": "Creamators raglan",
       "description": "Embrace the darkness with our Shadow Windbreaker. Sleek and stylish, this windbreaker features a subtle design and lightweight construction, making it perfect for everyday wear or outdoor activities.",
       "regular_price": "60.00",
       "rating": "1",
